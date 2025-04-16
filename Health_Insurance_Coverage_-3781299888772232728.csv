@@ -1,0 +1,1201 @@
+﻿Year,GeoID,Geography Type,Geography Name,Coverage,Age,Value,Margin of Error,Measure,ObjectId
+2017,09001,County,Fairfield,No,18 or Under,14010,1043.2,Count,13216
+2017,09001,County,Fairfield,No,18 to 64,41587,1416.7,Count,13217
+2017,09001,County,Fairfield,No,19 to 25,13582,877.2,Count,13218
+2017,09001,County,Fairfield,No,26 to 34,19412,925.6,Count,13219
+2017,09001,County,Fairfield,No,65 and Over,2022,372,Count,13220
+2017,09001,County,Fairfield,Total,18 or Under,234166,1221.8,Count,13221
+2017,09001,County,Fairfield,Total,18 to 64,390657,289.7,Count,13222
+2017,09001,County,Fairfield,Total,19 to 25,81693,921.5,Count,13223
+2017,09001,County,Fairfield,Total,26 to 34,96404,718.7,Count,13224
+2017,09001,County,Fairfield,Total,65 and Over,136078,402.3,Count,13225
+2017,09001,County,Fairfield,Yes,18 or Under,220156,1512.1,Count,13226
+2017,09001,County,Fairfield,Yes,18 to 64,349070,1439.5,Count,13227
+2017,09001,County,Fairfield,Yes,19 to 25,68111,1144.6,Count,13228
+2017,09001,County,Fairfield,Yes,26 to 34,76992,1171.2,Count,13229
+2017,09001,County,Fairfield,Yes,65 and Over,134056,547.2,Count,13230
+2017,09003,County,Hartford,No,18 or Under,5473,628.7,Count,13774
+2017,09003,County,Hartford,No,18 to 64,22641,1013.5,Count,13775
+2017,09003,County,Hartford,No,19 to 25,6895,571.7,Count,13776
+2017,09003,County,Hartford,No,26 to 34,10476,787.1,Count,13777
+2017,09003,County,Hartford,No,65 and Over,708,169.5,Count,13778
+2017,09003,County,Hartford,Total,18 or Under,204895,1059.6,Count,13779
+2017,09003,County,Hartford,Total,18 to 64,356989,440.8,Count,13780
+2017,09003,County,Hartford,Total,19 to 25,79704,852.7,Count,13781
+2017,09003,County,Hartford,Total,26 to 34,102440,733.1,Count,13782
+2017,09003,County,Hartford,Total,65 and Over,139401,430.5,Count,13783
+2017,09003,County,Hartford,Yes,18 or Under,199422,1244.9,Count,13784
+2017,09003,County,Hartford,Yes,18 to 64,334348,1084,Count,13785
+2017,09003,County,Hartford,Yes,19 to 25,72809,999.2,Count,13786
+2017,09003,County,Hartford,Yes,26 to 34,91964,1013.3,Count,13787
+2017,09003,County,Hartford,Yes,65 and Over,138693,470.6,Count,13788
+2017,09005,County,Litchfield,No,18 or Under,1270,293.8,Count,14272
+2017,09005,County,Litchfield,No,18 to 64,4758,450.3,Count,14277
+2017,09005,County,Litchfield,No,19 to 25,1094,279.5,Count,14302
+2017,09005,County,Litchfield,No,26 to 34,1764,276,Count,14304
+2017,09005,County,Litchfield,No,65 and Over,223,96,Count,14306
+2017,09005,County,Litchfield,Total,18 or Under,37268,490.1,Count,14308
+2017,09005,County,Litchfield,Total,18 to 64,81653,245.4,Count,14310
+2017,09005,County,Litchfield,Total,19 to 25,13668,368.6,Count,14312
+2017,09005,County,Litchfield,Total,26 to 34,16208,323.2,Count,14315
+2017,09005,County,Litchfield,Total,65 and Over,34348,255.7,Count,14319
+2017,09005,County,Litchfield,Yes,18 or Under,35998,524.3,Count,14323
+2017,09005,County,Litchfield,Yes,18 to 64,76895,503.6,Count,14327
+2017,09005,County,Litchfield,Yes,19 to 25,12574,442.9,Count,14331
+2017,09005,County,Litchfield,Yes,26 to 34,14444,420.7,Count,14335
+2017,09005,County,Litchfield,Yes,65 and Over,34125,265.2,Count,14336
+2017,09007,County,Middlesex,No,18 or Under,533,155.2,Count,14584
+2017,09007,County,Middlesex,No,18 to 64,3581,474.6,Count,14585
+2017,09007,County,Middlesex,No,19 to 25,904,200.9,Count,14586
+2017,09007,County,Middlesex,No,26 to 34,1540,330.9,Count,14587
+2017,09007,County,Middlesex,No,65 and Over,88,74.3,Count,14588
+2017,09007,County,Middlesex,Total,18 or Under,32973,465.2,Count,14589
+2017,09007,County,Middlesex,Total,18 to 64,70431,225.5,Count,14590
+2017,09007,County,Middlesex,Total,19 to 25,13976,380,Count,14591
+2017,09007,County,Middlesex,Total,26 to 34,15819,331.1,Count,14592
+2017,09007,County,Middlesex,Total,65 and Over,28982,263.4,Count,14593
+2017,09007,County,Middlesex,Yes,18 or Under,32440,487.7,Count,14594
+2017,09007,County,Middlesex,Yes,18 to 64,66850,527.9,Count,14595
+2017,09007,County,Middlesex,Yes,19 to 25,13072,432.8,Count,14596
+2017,09007,County,Middlesex,Yes,26 to 34,14279,438.5,Count,14597
+2017,09007,County,Middlesex,Yes,65 and Over,28894,269.4,Count,14598
+2017,09009,County,New Haven,No,18 or Under,5497,694.7,Count,15044
+2017,09009,County,New Haven,No,18 to 64,24669,1226.2,Count,15049
+2017,09009,County,New Haven,No,19 to 25,8424,839.7,Count,15054
+2017,09009,County,New Haven,No,26 to 34,11835,965.7,Count,15059
+2017,09009,County,New Haven,No,65 and Over,633,183.2,Count,15064
+2017,09009,County,New Haven,Total,18 or Under,192143,1168,Count,15069
+2017,09009,County,New Haven,Total,18 to 64,340396,309.2,Count,15074
+2017,09009,County,New Haven,Total,19 to 25,85150,1023.5,Count,15079
+2017,09009,County,New Haven,Total,26 to 34,99950,831.6,Count,15084
+2017,09009,County,New Haven,Total,65 and Over,134043,430.6,Count,15088
+2017,09009,County,New Haven,Yes,18 or Under,186646,1240.3,Count,15093
+2017,09009,County,New Haven,Yes,18 to 64,315727,1263.3,Count,15098
+2017,09009,County,New Haven,Yes,19 to 25,76726,1310.9,Count,15103
+2017,09009,County,New Haven,Yes,26 to 34,88115,1139,Count,15108
+2017,09009,County,New Haven,Yes,65 and Over,133410,490.5,Count,15113
+2017,09011,County,New London,Yes,18 or Under,55573,613.8,Count,15255
+2017,09011,County,New London,Yes,18 to 64,100397,584,Count,15295
+2017,09011,County,New London,Yes,19 to 25,22517,720,Count,15302
+2017,09011,County,New London,Yes,26 to 34,24925,609.4,Count,15309
+2017,09013,County,Tolland,No,18 or Under,696,200.5,Count,15311
+2017,09011,County,New London,No,18 or Under,1050,244.3,Count,15343
+2017,09011,County,New London,No,18 to 64,5844,537.4,Count,15344
+2017,09011,County,New London,No,19 to 25,1811,383.4,Count,15345
+2017,09011,County,New London,No,26 to 34,2915,376.3,Count,15346
+2017,09011,County,New London,No,65 and Over,140,82.9,Count,15347
+2017,09011,County,New London,Total,18 or Under,56623,589.5,Count,15348
+2017,09011,County,New London,Total,18 to 64,106241,296.3,Count,15349
+2017,09011,County,New London,Total,19 to 25,24328,661.3,Count,15350
+2017,09011,County,New London,Total,26 to 34,27840,497.7,Count,15351
+2017,09011,County,New London,Total,65 and Over,43596,235.7,Count,15352
+2017,09011,County,New London,Yes,65 and Over,43456,255.1,Count,15354
+2017,09013,County,Tolland,No,18 to 64,2375,395.2,Count,15362
+2017,09013,County,Tolland,No,19 to 25,1182,293.7,Count,15368
+2017,09013,County,Tolland,No,26 to 34,963,243.8,Count,15424
+2017,09013,County,Tolland,No,65 and Over,53,69.3,Count,15472
+2017,09013,County,Tolland,Total,18 or Under,31931,564.5,Count,15476
+2017,09013,County,Tolland,Total,18 to 64,57112,381.2,Count,15480
+2017,09013,County,Tolland,Total,19 to 25,25228,459.1,Count,15483
+2017,09013,County,Tolland,Total,26 to 34,13394,393.6,Count,15485
+2017,09013,County,Tolland,Total,65 and Over,21060,221.1,Count,15489
+2017,09013,County,Tolland,Yes,18 or Under,31235,615.5,Count,15493
+2017,09013,County,Tolland,Yes,18 to 64,54737,526.8,Count,15497
+2017,09013,County,Tolland,Yes,19 to 25,24046,522.1,Count,15501
+2017,09013,County,Tolland,Yes,26 to 34,12431,431.6,Count,15505
+2017,09013,County,Tolland,Yes,65 and Over,21007,225.3,Count,15509
+2017,09015,County,Windham,No,18 or Under,511,185.7,Count,15738
+2017,09015,County,Windham,No,18 to 64,3273,416.1,Count,15739
+2017,09015,County,Windham,No,19 to 25,693,191.6,Count,15740
+2017,09015,County,Windham,No,26 to 34,1545,272.7,Count,15741
+2017,09015,County,Windham,No,65 and Over,72,65.6,Count,15742
+2017,09015,County,Windham,Total,18 or Under,25414,464.3,Count,15743
+2017,09015,County,Windham,Total,18 to 64,48205,216.4,Count,15744
+2017,09015,County,Windham,Total,19 to 25,11843,367,Count,15745
+2017,09015,County,Windham,Total,26 to 34,12679,322.3,Count,15746
+2017,09015,County,Windham,Total,65 and Over,16834,248.1,Count,15747
+2017,09015,County,Windham,Yes,18 or Under,24903,459.5,Count,15748
+2017,09015,County,Windham,Yes,18 to 64,44932,478.4,Count,15749
+2017,09015,County,Windham,Yes,19 to 25,11150,383.4,Count,15750
+2017,09015,County,Windham,Yes,26 to 34,11134,407.4,Count,15751
+2017,09015,County,Windham,Yes,65 and Over,16762,248.7,Count,15752
+2018,09001,County,Fairfield,No,18 or Under,12951,1016.5,Count,16155
+2018,09001,County,Fairfield,No,18 to 64,37316,1402.9,Count,16156
+2018,09001,County,Fairfield,No,19 to 25,11818,951.9,Count,16157
+2018,09001,County,Fairfield,No,26 to 34,17138,980,Count,16158
+2018,09001,County,Fairfield,No,65 and Over,1895,373.6,Count,16159
+2018,09001,County,Fairfield,Total,18 or Under,231646,1248.2,Count,16160
+2018,09001,County,Fairfield,Total,18 to 64,388340,296.3,Count,16161
+2018,09001,County,Fairfield,Total,19 to 25,82010,891.7,Count,16162
+2018,09001,County,Fairfield,Total,26 to 34,95511,692.7,Count,16163
+2018,09001,County,Fairfield,Total,65 and Over,138765,453.9,Count,16164
+2018,09001,County,Fairfield,Yes,18 or Under,218695,1551.9,Count,16165
+2018,09001,County,Fairfield,Yes,18 to 64,351024,1418,Count,16166
+2018,09001,County,Fairfield,Yes,19 to 25,70192,1166.1,Count,16167
+2018,09001,County,Fairfield,Yes,26 to 34,78373,1074.3,Count,16168
+2018,09001,County,Fairfield,Yes,65 and Over,136870,585.8,Count,16169
+2018,09003,County,Hartford,No,18 or Under,4249,559.2,Count,16374
+2018,09003,County,Hartford,No,18 to 64,18759,1041.4,Count,16378
+2018,09003,County,Hartford,No,19 to 25,5589,625.1,Count,16382
+2018,09003,County,Hartford,No,26 to 34,9097,696.5,Count,16385
+2018,09003,County,Hartford,No,65 and Over,646,176.9,Count,16388
+2018,09003,County,Hartford,Total,18 or Under,203018,1026.3,Count,16411
+2018,09003,County,Hartford,Total,18 to 64,354320,414.7,Count,16416
+2018,09003,County,Hartford,Total,19 to 25,79485,952.7,Count,16421
+2018,09003,County,Hartford,Total,26 to 34,102542,781.8,Count,16427
+2018,09003,County,Hartford,Total,65 and Over,141965,428,Count,16433
+2018,09003,County,Hartford,Yes,18 or Under,198769,1134.2,Count,16439
+2018,09003,County,Hartford,Yes,18 to 64,335561,1078.4,Count,16445
+2018,09003,County,Hartford,Yes,19 to 25,73896,1001.9,Count,16501
+2018,09003,County,Hartford,Yes,26 to 34,93445,908.4,Count,16602
+2018,09003,County,Hartford,Yes,65 and Over,141319,465.5,Count,16605
+2018,09005,County,Litchfield,Total,18 or Under,36404,520.8,Count,16801
+2018,09005,County,Litchfield,Total,18 to 64,79899,180.6,Count,16802
+2018,09005,County,Litchfield,Total,19 to 25,13826,386.6,Count,16803
+2018,09005,County,Litchfield,Total,26 to 34,16135,328.1,Count,16804
+2018,09005,County,Litchfield,Total,65 and Over,35491,272.5,Count,16805
+2018,09005,County,Litchfield,Yes,18 or Under,35327,574.4,Count,16806
+2018,09005,County,Litchfield,Yes,18 to 64,76142,434.5,Count,16807
+2018,09005,County,Litchfield,Yes,19 to 25,12871,456.8,Count,16808
+2018,09005,County,Litchfield,Yes,26 to 34,14518,376.9,Count,16809
+2018,09005,County,Litchfield,Yes,65 and Over,35260,272.5,Count,16810
+2018,09005,County,Litchfield,No,18 or Under,1077,326.4,Count,17181
+2018,09005,County,Litchfield,No,18 to 64,3757,396.3,Count,17184
+2018,09005,County,Litchfield,No,19 to 25,955,227.6,Count,17187
+2018,09005,County,Litchfield,No,26 to 34,1617,250,Count,17190
+2018,09005,County,Litchfield,No,65 and Over,231,127.9,Count,17192
+2018,09009,County,New Haven,Yes,18 or Under,185202,1225.9,Count,17201
+2018,09009,County,New Haven,Yes,18 to 64,316108,1137.1,Count,17202
+2018,09009,County,New Haven,Yes,19 to 25,77660,1375.4,Count,17203
+2018,09009,County,New Haven,Yes,26 to 34,89657,1021,Count,17204
+2018,09009,County,New Haven,Yes,65 and Over,136291,487.6,Count,17205
+2018,09007,County,Middlesex,No,18 or Under,404,144.7,Count,17214
+2018,09007,County,Middlesex,No,18 to 64,2889,403.8,Count,17219
+2018,09007,County,Middlesex,No,19 to 25,749,217.8,Count,17221
+2018,09007,County,Middlesex,No,26 to 34,1259,274.5,Count,17223
+2018,09007,County,Middlesex,No,65 and Over,65,67.9,Count,17225
+2018,09007,County,Middlesex,Total,18 or Under,32157,454.4,Count,17227
+2018,09007,County,Middlesex,Total,18 to 64,69346,229.1,Count,17229
+2018,09007,County,Middlesex,Total,19 to 25,13941,428,Count,17231
+2018,09007,County,Middlesex,Total,26 to 34,16192,351.1,Count,17233
+2018,09007,County,Middlesex,Total,65 and Over,29816,348.9,Count,17235
+2018,09007,County,Middlesex,Yes,18 or Under,31753,481.7,Count,17237
+2018,09007,County,Middlesex,Yes,18 to 64,66457,451.6,Count,17239
+2018,09007,County,Middlesex,Yes,19 to 25,13192,473.1,Count,17241
+2018,09007,County,Middlesex,Yes,26 to 34,14933,427.5,Count,17243
+2018,09007,County,Middlesex,Yes,65 and Over,29751,349.5,Count,17246
+2018,09009,County,New Haven,No,18 or Under,4495,569.5,Count,17591
+2018,09009,County,New Haven,No,18 to 64,21586,1117.1,Count,17592
+2018,09009,County,New Haven,No,19 to 25,6750,688.1,Count,17593
+2018,09009,County,New Haven,No,26 to 34,10895,781,Count,17594
+2018,09009,County,New Haven,No,65 and Over,603,223.3,Count,17595
+2018,09009,County,New Haven,Total,18 or Under,189697,1111.4,Count,17596
+2018,09009,County,New Haven,Total,18 to 64,337694,316.5,Count,17597
+2018,09009,County,New Haven,Total,19 to 25,84410,1103.3,Count,17598
+2018,09009,County,New Haven,Total,26 to 34,100552,832.9,Count,17599
+2018,09009,County,New Haven,Total,65 and Over,136894,432,Count,17600
+2018,09011,County,New London,No,18 or Under,1068,287.5,Count,17689
+2018,09011,County,New London,No,18 to 64,5099,535.9,Count,17690
+2018,09011,County,New London,No,19 to 25,1828,384,Count,17691
+2018,09011,County,New London,No,26 to 34,2748,401.7,Count,17692
+2018,09011,County,New London,No,65 and Over,210,107.1,Count,17693
+2018,09011,County,New London,Total,18 or Under,55711,580.5,Count,17694
+2018,09011,County,New London,Total,18 to 64,104480,311.6,Count,17695
+2018,09011,County,New London,Total,19 to 25,23420,627,Count,17696
+2018,09011,County,New London,Total,26 to 34,28320,494.5,Count,17697
+2018,09011,County,New London,Total,65 and Over,44723,227.7,Count,17698
+2018,09011,County,New London,Yes,18 or Under,54643,606.9,Count,17699
+2018,09011,County,New London,Yes,18 to 64,99381,596.1,Count,17700
+2018,09011,County,New London,Yes,19 to 25,21592,625.2,Count,17701
+2018,09011,County,New London,Yes,26 to 34,25572,603,Count,17702
+2018,09011,County,New London,Yes,65 and Over,44513,253.1,Count,17703
+2018,09013,County,Tolland,Yes,18 or Under,30570,560,Count,18074
+2018,09013,County,Tolland,Yes,18 to 64,54520,434.8,Count,18081
+2018,09013,County,Tolland,Yes,19 to 25,24244,508.4,Count,18088
+2018,09013,County,Tolland,Yes,26 to 34,13019,379.4,Count,18141
+2018,09013,County,Tolland,Yes,65 and Over,21659,213.4,Count,18195
+2018,09013,County,Tolland,No,18 or Under,823,248.8,Count,18288
+2018,09013,County,Tolland,No,18 to 64,1657,277.7,Count,18289
+2018,09013,County,Tolland,No,19 to 25,1242,322.7,Count,18290
+2018,09013,County,Tolland,No,26 to 34,831,234.1,Count,18291
+2018,09013,County,Tolland,No,65 and Over,0,58,Count,18292
+2018,09013,County,Tolland,Total,18 or Under,31393,524.6,Count,18293
+2018,09013,County,Tolland,Total,18 to 64,56177,341.6,Count,18294
+2018,09013,County,Tolland,Total,19 to 25,25486,458.4,Count,18295
+2018,09013,County,Tolland,Total,26 to 34,13850,348.5,Count,18296
+2018,09013,County,Tolland,Total,65 and Over,21659,213.4,Count,18297
+2018,09015,County,Windham,No,18 or Under,394,138.5,Count,18430
+2018,09015,County,Windham,No,18 to 64,2242,345.8,Count,18435
+2018,09015,County,Windham,No,19 to 25,642,181.2,Count,18444
+2018,09015,County,Windham,No,26 to 34,1133,246,Count,18452
+2018,09015,County,Windham,No,65 and Over,102,70.8,Count,18460
+2018,09015,County,Windham,Total,18 or Under,25131,440.5,Count,18468
+2019,09001,County,Fairfield,No,18 or Under,12743,1018.7,Count,18471
+2018,09015,County,Windham,Total,18 to 64,47802,244.8,Count,18476
+2019,09001,County,Fairfield,No,18 to 64,36965,1488.1,Count,18479
+2018,09015,County,Windham,Total,19 to 25,11759,343.2,Count,18484
+2019,09001,County,Fairfield,No,19 to 25,10753,901.5,Count,18487
+2018,09015,County,Windham,Total,26 to 34,12799,324.5,Count,18492
+2019,09001,County,Fairfield,No,26 to 34,16374,966.1,Count,18495
+2019,09001,County,Fairfield,No,65 and Over,1969,344.6,Count,18496
+2019,09001,County,Fairfield,Total,18 or Under,229045,1143.7,Count,18497
+2019,09001,County,Fairfield,Total,18 to 64,386611,317.1,Count,18498
+2019,09001,County,Fairfield,Total,19 to 25,82100,939.8,Count,18499
+2019,09001,County,Fairfield,Total,26 to 34,96133,718.5,Count,18500
+2019,09001,County,Fairfield,Total,65 and Over,142050,435.7,Count,18501
+2019,09001,County,Fairfield,Yes,18 or Under,216302,1444.9,Count,18502
+2019,09001,County,Fairfield,Yes,18 to 64,349646,1509.9,Count,18503
+2019,09001,County,Fairfield,Yes,19 to 25,71347,1118.1,Count,18504
+2019,09001,County,Fairfield,Yes,26 to 34,79759,1101.2,Count,18505
+2019,09001,County,Fairfield,Yes,65 and Over,140081,566.7,Count,18506
+2018,09015,County,Windham,Total,65 and Over,17322,260.2,Count,18540
+2018,09015,County,Windham,Yes,18 or Under,24737,446.7,Count,18545
+2018,09015,County,Windham,Yes,18 to 64,45560,408.9,Count,18550
+2018,09015,County,Windham,Yes,19 to 25,11117,375.2,Count,18582
+2018,09015,County,Windham,Yes,26 to 34,11666,369.2,Count,18586
+2018,09015,County,Windham,Yes,65 and Over,17220,249.9,Count,18590
+2019,09003,County,Hartford,No,18 or Under,3706,518.7,Count,19014
+2019,09003,County,Hartford,No,18 to 64,17692,959.1,Count,19018
+2019,09003,County,Hartford,No,19 to 25,5244,636.7,Count,19023
+2019,09003,County,Hartford,No,26 to 34,8556,728.4,Count,19028
+2019,09003,County,Hartford,No,65 and Over,584,158.6,Count,19033
+2019,09003,County,Hartford,Total,18 or Under,201319,1183,Count,19038
+2019,09003,County,Hartford,Total,18 to 64,352071,396,Count,19042
+2019,09003,County,Hartford,Total,19 to 25,79490,981.7,Count,19049
+2019,09003,County,Hartford,Total,26 to 34,103004,812.3,Count,19053
+2019,09003,County,Hartford,Total,65 and Over,144740,454.9,Count,19057
+2019,09003,County,Hartford,Yes,18 or Under,197613,1282.3,Count,19062
+2019,09003,County,Hartford,Yes,18 to 64,334379,1022.2,Count,19067
+2019,09003,County,Hartford,Yes,19 to 25,74246,1032.9,Count,19072
+2019,09003,County,Hartford,Yes,26 to 34,94448,1041.5,Count,19077
+2019,09003,County,Hartford,Yes,65 and Over,144156,479.9,Count,19082
+2019,09005,County,Litchfield,No,18 or Under,883,239.3,Count,19341
+2019,09005,County,Litchfield,No,18 to 64,3657,407.1,Count,19342
+2019,09005,County,Litchfield,No,19 to 25,927,256.1,Count,19343
+2019,09005,County,Litchfield,No,26 to 34,1451,284,Count,19344
+2019,09005,County,Litchfield,No,65 and Over,75,47.6,Count,19345
+2019,09005,County,Litchfield,Total,18 or Under,35596,524.1,Count,19346
+2019,09005,County,Litchfield,Total,18 to 64,78394,232.8,Count,19347
+2019,09005,County,Litchfield,Total,19 to 25,13528,392.4,Count,19348
+2019,09005,County,Litchfield,Total,26 to 34,16677,313.5,Count,19349
+2019,09005,County,Litchfield,Total,65 and Over,36548,272.4,Count,19350
+2019,09005,County,Litchfield,Yes,18 or Under,34713,554.5,Count,19351
+2019,09005,County,Litchfield,Yes,18 to 64,74737,463.9,Count,19352
+2019,09005,County,Litchfield,Yes,19 to 25,12601,454.2,Count,19353
+2019,09005,County,Litchfield,Yes,26 to 34,15226,401.9,Count,19354
+2019,09005,County,Litchfield,Yes,65 and Over,36473,277.6,Count,19355
+2019,09007,County,Middlesex,No,18 or Under,411,130.2,Count,19765
+2019,09007,County,Middlesex,No,18 to 64,2836,403.9,Count,19766
+2019,09007,County,Middlesex,No,19 to 25,672,218.5,Count,19767
+2019,09007,County,Middlesex,No,26 to 34,1163,302.9,Count,19768
+2019,09007,County,Middlesex,No,65 and Over,83,66.8,Count,19769
+2019,09007,County,Middlesex,Total,18 or Under,31366,442.2,Count,19770
+2019,09007,County,Middlesex,Total,18 to 64,68621,224.4,Count,19771
+2019,09007,County,Middlesex,Total,19 to 25,13935,426.3,Count,19772
+2019,09007,County,Middlesex,Total,26 to 34,16295,378.5,Count,19773
+2019,09007,County,Middlesex,Total,65 and Over,30798,306.7,Count,19774
+2019,09007,County,Middlesex,Yes,18 or Under,30955,464,Count,19775
+2019,09007,County,Middlesex,Yes,18 to 64,65785,437.9,Count,19776
+2019,09007,County,Middlesex,Yes,19 to 25,13263,449.3,Count,19777
+2019,09007,County,Middlesex,Yes,26 to 34,15132,459.3,Count,19778
+2019,09007,County,Middlesex,Yes,65 and Over,30715,314.7,Count,19779
+2019,09009,County,New Haven,No,18 or Under,4210,595.4,Count,20206
+2019,09009,County,New Haven,No,18 to 64,21458,1185.8,Count,20210
+2019,09009,County,New Haven,No,19 to 25,6127,677.4,Count,20215
+2019,09009,County,New Haven,No,26 to 34,9920,803.2,Count,20220
+2019,09009,County,New Haven,No,65 and Over,677,222.2,Count,20224
+2019,09009,County,New Haven,Total,18 or Under,187223,1165.7,Count,20227
+2019,09009,County,New Haven,Total,18 to 64,335121,354.4,Count,20232
+2019,09009,County,New Haven,Total,19 to 25,83834,998.6,Count,20237
+2019,09009,County,New Haven,Total,26 to 34,101061,869.1,Count,20242
+2019,09009,County,New Haven,Total,65 and Over,140411,459.4,Count,20247
+2019,09009,County,New Haven,Yes,18 or Under,183013,1317.6,Count,20252
+2019,09009,County,New Haven,Yes,18 to 64,313663,1238,Count,20257
+2019,09009,County,New Haven,Yes,19 to 25,77707,1076.1,Count,20262
+2019,09009,County,New Haven,Yes,26 to 34,91141,1066.4,Count,20267
+2019,09009,County,New Haven,Yes,65 and Over,139734,501.3,Count,20272
+2019,09011,County,New London,No,18 or Under,820,219.6,Count,20724
+2019,09011,County,New London,No,18 to 64,4910,524.2,Count,20727
+2019,09011,County,New London,No,19 to 25,1638,316.7,Count,20730
+2019,09011,County,New London,No,26 to 34,2707,400.3,Count,20733
+2019,09011,County,New London,No,65 and Over,188,117.5,Count,20736
+2019,09011,County,New London,Total,18 or Under,55062,620.5,Count,20739
+2019,09011,County,New London,Total,18 to 64,103184,337.8,Count,20742
+2019,09011,County,New London,Total,19 to 25,22933,650.4,Count,20745
+2019,09011,County,New London,Total,26 to 34,28301,497.8,Count,20748
+2019,09011,County,New London,Total,65 and Over,45806,284.7,Count,20751
+2019,09011,County,New London,Yes,18 or Under,54242,662.2,Count,20754
+2019,09011,County,New London,Yes,18 to 64,98274,621.7,Count,20757
+2019,09011,County,New London,Yes,19 to 25,21295,645.1,Count,20760
+2019,09011,County,New London,Yes,26 to 34,25594,574.9,Count,20763
+2019,09011,County,New London,Yes,65 and Over,45618,303.7,Count,20766
+2019,09013,County,Tolland,No,18 or Under,787,243.3,Count,20909
+2019,09013,County,Tolland,No,18 to 64,1418,257.8,Count,20952
+2019,09013,County,Tolland,No,19 to 25,853,317.9,Count,20958
+2019,09013,County,Tolland,No,26 to 34,753,224.2,Count,20964
+2019,09013,County,Tolland,No,65 and Over,0,58,Count,20970
+2019,09013,County,Tolland,Total,18 or Under,30722,561.2,Count,21002
+2019,09013,County,Tolland,Total,18 to 64,55522,368.6,Count,21007
+2019,09013,County,Tolland,Total,19 to 25,25676,471,Count,21012
+2019,09013,County,Tolland,Total,26 to 34,14151,335.5,Count,21017
+2019,09013,County,Tolland,Total,65 and Over,22405,205.4,Count,21022
+2019,09013,County,Tolland,Yes,18 or Under,29935,584.3,Count,21027
+2019,09013,County,Tolland,Yes,18 to 64,54104,432.9,Count,21068
+2019,09013,County,Tolland,Yes,19 to 25,24823,584.6,Count,21071
+2019,09013,County,Tolland,Yes,26 to 34,13398,345.2,Count,21074
+2019,09013,County,Tolland,Yes,65 and Over,22405,205.4,Count,21077
+2019,09015,County,Windham,No,18 or Under,438,150.3,Count,21098
+2019,09015,County,Windham,No,18 to 64,2176,336.2,Count,21102
+2019,09015,County,Windham,No,19 to 25,733,184.9,Count,21106
+2019,09015,County,Windham,No,26 to 34,1294,283.6,Count,21110
+2019,09015,County,Windham,No,65 and Over,86,67.1,Count,21114
+2019,09015,County,Windham,Total,18 or Under,24994,433.4,Count,21131
+2019,09015,County,Windham,Total,18 to 64,47633,292.3,Count,21133
+2019,09015,County,Windham,Total,19 to 25,11463,378.4,Count,21134
+2019,09015,County,Windham,Total,26 to 34,12942,350.5,Count,21136
+2019,09015,County,Windham,Total,65 and Over,17815,266.5,Count,21138
+2019,09015,County,Windham,Yes,18 or Under,24556,451.8,Count,21140
+2019,09015,County,Windham,Yes,18 to 64,45457,427.5,Count,21142
+2019,09015,County,Windham,Yes,19 to 25,10730,395.3,Count,21144
+2019,09015,County,Windham,Yes,26 to 34,11648,447.9,Count,21146
+2019,09015,County,Windham,Yes,65 and Over,17729,270.3,Count,21148
+2020,09001,County,Fairfield,No,18 or Under,10566,960.5,Count,21381
+2020,09001,County,Fairfield,No,18 to 64,35668,1507.3,Count,21382
+2020,09001,County,Fairfield,No,19 to 25,8770,861,Count,21383
+2020,09001,County,Fairfield,No,26 to 34,14725,971.6,Count,21384
+2020,09001,County,Fairfield,No,65 and Over,1775,373.5,Count,21385
+2020,09001,County,Fairfield,Total,18 or Under,226271,1517.6,Count,21386
+2020,09001,County,Fairfield,Total,18 to 64,385262,343.9,Count,21387
+2020,09001,County,Fairfield,Total,19 to 25,81779,965.3,Count,21388
+2020,09001,County,Fairfield,Total,26 to 34,97345,753.1,Count,21389
+2020,09001,County,Fairfield,Total,65 and Over,145732,445.9,Count,21390
+2020,09001,County,Fairfield,Yes,18 or Under,215705,1738.5,Count,21391
+2020,09001,County,Fairfield,Yes,18 to 64,349594,1560.3,Count,21392
+2020,09001,County,Fairfield,Yes,19 to 25,73009,1122.2,Count,21393
+2020,09001,County,Fairfield,Yes,26 to 34,82620,1234.3,Count,21394
+2020,09001,County,Fairfield,Yes,65 and Over,143957,577.3,Count,21395
+2020,09003,County,Hartford,No,18 or Under,3753,622.4,Count,21756
+2020,09003,County,Hartford,No,18 to 64,17287,1099.8,Count,21757
+2020,09003,County,Hartford,No,19 to 25,4791,605.7,Count,21758
+2020,09003,County,Hartford,No,26 to 34,8126,809.2,Count,21759
+2020,09003,County,Hartford,No,65 and Over,1056,338.4,Count,21760
+2020,09003,County,Hartford,Total,18 or Under,199534,1311,Count,21761
+2020,09003,County,Hartford,Total,18 to 64,349493,445.7,Count,21762
+2020,09003,County,Hartford,Total,19 to 25,79154,1052.2,Count,21763
+2020,09003,County,Hartford,Total,26 to 34,103424,873.4,Count,21764
+2020,09003,County,Hartford,Total,65 and Over,147773,439,Count,21765
+2020,09003,County,Hartford,Yes,18 or Under,195781,1359.1,Count,21766
+2020,09003,County,Hartford,Yes,18 to 64,332206,1169.3,Count,21767
+2020,09003,County,Hartford,Yes,19 to 25,74363,1115.9,Count,21768
+2020,09003,County,Hartford,Yes,26 to 34,95298,1108.2,Count,21769
+2020,09003,County,Hartford,Yes,65 and Over,146717,558.1,Count,21770
+2020,09005,County,Litchfield,No,18 or Under,721,218.1,Count,22233
+2020,09005,County,Litchfield,No,18 to 64,3140,399.2,Count,22234
+2020,09005,County,Litchfield,No,19 to 25,1152,276.2,Count,22235
+2020,09005,County,Litchfield,No,26 to 34,1320,263.5,Count,22236
+2020,09005,County,Litchfield,No,65 and Over,60,54,Count,22237
+2020,09005,County,Litchfield,Total,18 or Under,34650,533.1,Count,22238
+2020,09005,County,Litchfield,Total,18 to 64,77078,202.9,Count,22239
+2020,09005,County,Litchfield,Total,19 to 25,13312,387.3,Count,22240
+2020,09005,County,Litchfield,Total,26 to 34,17167,331.2,Count,22241
+2020,09005,County,Litchfield,Total,65 and Over,37626,281.8,Count,22242
+2020,09005,County,Litchfield,Yes,18 or Under,33929,565.7,Count,22243
+2020,09005,County,Litchfield,Yes,18 to 64,73938,456.6,Count,22244
+2020,09005,County,Litchfield,Yes,19 to 25,12160,479.7,Count,22245
+2020,09005,County,Litchfield,Yes,26 to 34,15847,397.2,Count,22246
+2020,09005,County,Litchfield,Yes,65 and Over,37566,286.8,Count,22247
+2020,09007,County,Middlesex,Yes,18 or Under,30334,474.9,Count,22439
+2020,09007,County,Middlesex,Yes,18 to 64,64827,522.6,Count,22488
+2020,09007,County,Middlesex,Yes,19 to 25,13371,511.6,Count,22495
+2020,09007,County,Middlesex,Yes,26 to 34,15226,517.5,Count,22538
+2020,09007,County,Middlesex,Yes,65 and Over,31711,317.9,Count,22543
+2020,09007,County,Middlesex,No,18 or Under,344,141.6,Count,22690
+2020,09007,County,Middlesex,No,18 to 64,2939,457.5,Count,22691
+2020,09007,County,Middlesex,No,19 to 25,603,205.8,Count,22692
+2020,09007,County,Middlesex,No,26 to 34,1263,339.4,Count,22693
+2020,09007,County,Middlesex,No,65 and Over,80,67.7,Count,22694
+2020,09007,County,Middlesex,Total,18 or Under,30678,440.3,Count,22695
+2020,09007,County,Middlesex,Total,18 to 64,67766,281.1,Count,22696
+2020,09007,County,Middlesex,Total,19 to 25,13974,466.8,Count,22697
+2020,09007,County,Middlesex,Total,26 to 34,16489,421.5,Count,22698
+2020,09007,County,Middlesex,Total,65 and Over,31791,313.9,Count,22699
+2020,09009,County,New Haven,No,18 or Under,4839,761.3,Count,22831
+2020,09009,County,New Haven,No,18 to 64,21586,1230.3,Count,22832
+2020,09009,County,New Haven,No,19 to 25,4769,610.7,Count,22834
+2020,09009,County,New Haven,No,26 to 34,9908,843.4,Count,22840
+2020,09009,County,New Haven,No,65 and Over,689,250.6,Count,22841
+2020,09009,County,New Haven,Total,18 or Under,185807,1452.2,Count,22842
+2020,09009,County,New Haven,Total,18 to 64,332658,329.5,Count,22843
+2020,09009,County,New Haven,Total,19 to 25,82250,1235.9,Count,22844
+2020,09009,County,New Haven,Total,26 to 34,101702,966.3,Count,22845
+2020,09009,County,New Haven,Total,65 and Over,143572,462.5,Count,22846
+2020,09009,County,New Haven,Yes,18 or Under,180968,1616.4,Count,22847
+2020,09009,County,New Haven,Yes,18 to 64,311072,1265.4,Count,22848
+2020,09009,County,New Haven,Yes,19 to 25,77481,1277.7,Count,22849
+2020,09009,County,New Haven,Yes,26 to 34,91794,1211.3,Count,22850
+2020,09009,County,New Haven,Yes,65 and Over,142883,527.7,Count,22851
+2020,09011,County,New London,No,18 or Under,905,228.1,Count,23215
+2020,09011,County,New London,No,18 to 64,5062,606.8,Count,23264
+2020,09011,County,New London,No,19 to 25,1517,287.5,Count,23271
+2020,09011,County,New London,No,26 to 34,2849,427.8,Count,23323
+2020,09011,County,New London,No,65 and Over,252,124.9,Count,23329
+2020,09011,County,New London,Total,18 or Under,54666,547.8,Count,23430
+2020,09011,County,New London,Total,18 to 64,101849,316,Count,23433
+2020,09011,County,New London,Total,19 to 25,22542,698.1,Count,23437
+2020,09011,County,New London,Total,26 to 34,28270,627.6,Count,23441
+2020,09011,County,New London,Total,65 and Over,47128,305.3,Count,23446
+2020,09011,County,New London,Yes,18 or Under,53761,591.8,Count,23449
+2020,09011,County,New London,Yes,18 to 64,96787,668.8,Count,23453
+2020,09011,County,New London,Yes,19 to 25,21025,702.2,Count,23457
+2020,09011,County,New London,Yes,26 to 34,25421,700,Count,23461
+2020,09011,County,New London,Yes,65 and Over,46876,316.1,Count,23465
+2020,09013,County,Tolland,No,18 or Under,847,303.7,Count,23539
+2020,09013,County,Tolland,No,18 to 64,1598,299,Count,23542
+2020,09013,County,Tolland,No,19 to 25,560,213.6,Count,23545
+2020,09013,County,Tolland,No,26 to 34,991,259.9,Count,23548
+2020,09013,County,Tolland,No,65 and Over,0,60,Count,23551
+2020,09013,County,Tolland,Total,18 or Under,30395,605.6,Count,23554
+2020,09013,County,Tolland,Total,18 to 64,55000,406.1,Count,23557
+2020,09013,County,Tolland,Total,19 to 25,25368,543.2,Count,23560
+2020,09013,County,Tolland,Total,26 to 34,14567,339.6,Count,23561
+2020,09013,County,Tolland,Total,65 and Over,23136,245.1,Count,23562
+2020,09013,County,Tolland,Yes,18 or Under,29548,615.4,Count,23563
+2020,09013,County,Tolland,Yes,18 to 64,53402,487.7,Count,23564
+2020,09013,County,Tolland,Yes,19 to 25,24808,575.1,Count,23565
+2020,09013,County,Tolland,Yes,26 to 34,13576,367.6,Count,23566
+2020,09013,County,Tolland,Yes,65 and Over,23136,245.1,Count,23567
+2020,09015,County,Windham,Yes,18 or Under,24068,497.8,Count,23607
+2020,09015,County,Windham,Yes,18 to 64,45123,508.1,Count,23612
+2020,09015,County,Windham,Yes,19 to 25,10817,434.2,Count,23620
+2020,09015,County,Windham,Yes,26 to 34,11998,415,Count,23672
+2020,09015,County,Windham,Yes,65 and Over,18403,276.4,Count,23678
+2020,09015,County,Windham,No,18 or Under,494,188.7,Count,23899
+2020,09015,County,Windham,No,18 to 64,2340,423.6,Count,23900
+2020,09015,County,Windham,No,19 to 25,596,173.5,Count,23901
+2020,09015,County,Windham,No,26 to 34,1060,239.9,Count,23902
+2020,09015,County,Windham,No,65 and Over,65,63.1,Count,23903
+2020,09015,County,Windham,Total,18 or Under,24562,467.6,Count,23904
+2020,09015,County,Windham,Total,18 to 64,47463,286.9,Count,23905
+2020,09015,County,Windham,Total,19 to 25,11413,396.2,Count,23906
+2020,09015,County,Windham,Total,26 to 34,13058,333.8,Count,23907
+2020,09015,County,Windham,Total,65 and Over,18468,275.3,Count,23908
+2021,09001,County,Fairfield,Total,18 or Under,229149,1380.4,Count,24013
+2021,09001,County,Fairfield,Total,18 to 64,392205,371,Count,24017
+2021,09001,County,Fairfield,Total,19 to 25,82239,1045.4,Count,24019
+2021,09001,County,Fairfield,Total,26 to 34,98056,741.8,Count,24020
+2021,09001,County,Fairfield,Total,65 and Over,147334,424.9,Count,24022
+2021,09001,County,Fairfield,Yes,18 or Under,219042,1560.8,Count,24024
+2021,09001,County,Fairfield,Yes,18 to 64,354014,1715.7,Count,24026
+2021,09001,County,Fairfield,Yes,19 to 25,73948,1310.1,Count,24027
+2021,09001,County,Fairfield,Yes,26 to 34,83179,1155.5,Count,24029
+2021,09001,County,Fairfield,Yes,65 and Over,145304,581.2,Count,24032
+2021,09001,County,Fairfield,No,18 or Under,10107,909.5,Count,24128
+2021,09001,County,Fairfield,No,18 to 64,38191,1685.3,Count,24129
+2021,09001,County,Fairfield,No,19 to 25,8291,843,Count,24130
+2021,09001,County,Fairfield,No,26 to 34,14877,1002.8,Count,24131
+2021,09001,County,Fairfield,No,65 and Over,2030,390,Count,24132
+2021,09003,County,Hartford,No,18 or Under,4026,652.2,Count,24624
+2021,09003,County,Hartford,No,18 to 64,18170,1148,Count,24628
+2021,09003,County,Hartford,No,19 to 25,5056,629.9,Count,24632
+2021,09003,County,Hartford,No,26 to 34,8394,775.5,Count,24633
+2021,09003,County,Hartford,No,65 and Over,1097,300.2,Count,24634
+2021,09003,County,Hartford,Total,18 or Under,201728,1346.6,Count,24635
+2021,09003,County,Hartford,Total,18 to 64,353687,478.2,Count,24636
+2021,09003,County,Hartford,Total,19 to 25,78167,1043.2,Count,24637
+2021,09003,County,Hartford,Total,26 to 34,104736,852.4,Count,24638
+2021,09003,County,Hartford,Total,65 and Over,147908,467.7,Count,24639
+2021,09003,County,Hartford,Yes,18 or Under,197702,1477.4,Count,24640
+2021,09003,County,Hartford,Yes,18 to 64,335517,1244,Count,24641
+2021,09003,County,Hartford,Yes,19 to 25,73111,1075,Count,24642
+2021,09003,County,Hartford,Yes,26 to 34,96342,1030.7,Count,24643
+2021,09003,County,Hartford,Yes,65 and Over,146811,542.7,Count,24644
+2021,09005,County,Litchfield,No,18 or Under,823,244.2,Count,24857
+2021,09005,County,Litchfield,No,18 to 64,3635,459.6,Count,24861
+2021,09005,County,Litchfield,No,19 to 25,787,245.5,Count,24862
+2021,09005,County,Litchfield,No,26 to 34,1407,298.3,Count,24863
+2021,09005,County,Litchfield,No,65 and Over,57,55.8,Count,24864
+2021,09005,County,Litchfield,Total,18 or Under,35477,531.6,Count,24865
+2021,09005,County,Litchfield,Total,18 to 64,78533,292.4,Count,24866
+2021,09005,County,Litchfield,Total,19 to 25,13344,452.6,Count,24867
+2021,09005,County,Litchfield,Total,26 to 34,17708,342.7,Count,24868
+2021,09005,County,Litchfield,Total,65 and Over,38758,295,Count,24869
+2021,09005,County,Litchfield,Yes,18 or Under,34654,570.3,Count,24870
+2021,09005,County,Litchfield,Yes,18 to 64,74898,533.9,Count,24871
+2021,09005,County,Litchfield,Yes,19 to 25,12557,528.5,Count,24872
+2021,09005,County,Litchfield,Yes,26 to 34,16301,403.4,Count,24873
+2021,09005,County,Litchfield,Yes,65 and Over,38701,300.4,Count,24874
+2021,09009,County,New Haven,No,18 or Under,4677,758.7,Count,25252
+2021,09009,County,New Haven,No,18 to 64,22874,1432.5,Count,25259
+2021,09009,County,New Haven,No,19 to 25,4911,590.4,Count,25264
+2021,09009,County,New Haven,No,26 to 34,10319,1059.5,Count,25316
+2021,09009,County,New Haven,No,65 and Over,934,267.6,Count,25321
+2021,09009,County,New Haven,Total,18 or Under,188210,1354.4,Count,25370
+2021,09009,County,New Haven,Total,18 to 64,337644,349.1,Count,25374
+2021,09009,County,New Haven,Total,19 to 25,82712,1171.1,Count,25378
+2021,09007,County,Middlesex,No,18 or Under,334,142.5,Count,25384
+2021,09007,County,Middlesex,No,18 to 64,2907,475.9,Count,25385
+2021,09007,County,Middlesex,No,19 to 25,689,219.2,Count,25386
+2021,09007,County,Middlesex,No,26 to 34,1246,377,Count,25387
+2021,09007,County,Middlesex,No,65 and Over,46,45.4,Count,25388
+2021,09007,County,Middlesex,Total,18 or Under,30946,503.6,Count,25389
+2021,09007,County,Middlesex,Total,18 to 64,68603,358,Count,25390
+2021,09007,County,Middlesex,Total,19 to 25,13915,470.5,Count,25391
+2021,09007,County,Middlesex,Total,26 to 34,16581,426.6,Count,25392
+2021,09007,County,Middlesex,Total,65 and Over,32522,311.8,Count,25393
+2021,09007,County,Middlesex,Yes,18 or Under,30612,532.9,Count,25394
+2021,09007,County,Middlesex,Yes,18 to 64,65696,584.5,Count,25395
+2021,09007,County,Middlesex,Yes,19 to 25,13226,474.3,Count,25396
+2021,09007,County,Middlesex,Yes,26 to 34,15335,533.3,Count,25397
+2021,09007,County,Middlesex,Yes,65 and Over,32476,314.4,Count,25398
+2021,09009,County,New Haven,Total,26 to 34,101941,954.2,Count,25426
+2021,09009,County,New Haven,Total,65 and Over,144896,443.4,Count,25429
+2021,09009,County,New Haven,Yes,18 or Under,183533,1532.6,Count,25432
+2021,09009,County,New Haven,Yes,18 to 64,314770,1498.6,Count,25435
+2021,09009,County,New Haven,Yes,19 to 25,77801,1311.7,Count,25477
+2021,09009,County,New Haven,Yes,26 to 34,91622,1160.4,Count,25480
+2021,09009,County,New Haven,Yes,65 and Over,143962,517.5,Count,25482
+2021,09011,County,New London,No,18 or Under,1025,239.3,Count,25849
+2021,09011,County,New London,No,18 to 64,5167,593.1,Count,25850
+2021,09011,County,New London,No,19 to 25,1762,320.9,Count,25851
+2021,09011,County,New London,No,26 to 34,2518,435.7,Count,25852
+2021,09011,County,New London,No,65 and Over,290,140.4,Count,25853
+2021,09011,County,New London,Total,18 or Under,55405,645.6,Count,25854
+2021,09011,County,New London,Total,18 to 64,102926,372.6,Count,25855
+2021,09011,County,New London,Total,19 to 25,22331,624.6,Count,25856
+2021,09011,County,New London,Total,26 to 34,28661,565,Count,25857
+2021,09011,County,New London,Total,65 and Over,47762,291.7,Count,25858
+2021,09011,County,New London,Yes,18 or Under,54380,683.1,Count,25859
+2021,09011,County,New London,Yes,18 to 64,97759,665.3,Count,25860
+2021,09011,County,New London,Yes,19 to 25,20569,675,Count,25861
+2021,09011,County,New London,Yes,26 to 34,26143,637.5,Count,25862
+2021,09011,County,New London,Yes,65 and Over,47472,329.3,Count,25863
+2021,09013,County,Tolland,No,18 or Under,1084,314.1,Count,26016
+2021,09013,County,Tolland,No,18 to 64,1835,352.4,Count,26060
+2021,09013,County,Tolland,No,19 to 25,686,206.9,Count,26067
+2021,09013,County,Tolland,No,26 to 34,914,252.4,Count,26074
+2021,09013,County,Tolland,No,65 and Over,5,54.4,Count,26125
+2021,09013,County,Tolland,Total,18 or Under,30501,594.1,Count,26129
+2021,09013,County,Tolland,Total,18 to 64,54556,373.2,Count,26133
+2021,09013,County,Tolland,Total,19 to 25,25054,504.6,Count,26194
+2021,09013,County,Tolland,Total,26 to 34,14500,337.1,Count,26198
+2021,09013,County,Tolland,Total,65 and Over,23209,226,Count,26202
+2021,09013,County,Tolland,Yes,18 or Under,29417,627.4,Count,26207
+2021,09013,County,Tolland,Yes,18 to 64,52721,467.5,Count,26212
+2021,09013,County,Tolland,Yes,19 to 25,24368,533.7,Count,26217
+2021,09013,County,Tolland,Yes,26 to 34,13586,354.3,Count,26222
+2021,09013,County,Tolland,Yes,65 and Over,23204,226.4,Count,26227
+2021,09015,County,Windham,No,18 or Under,443,155.4,Count,26630
+2021,09015,County,Windham,No,18 to 64,2634,433,Count,26678
+2021,09015,County,Windham,No,19 to 25,538,147.8,Count,26682
+2021,09015,County,Windham,No,26 to 34,1316,261.8,Count,26686
+2021,09015,County,Windham,No,65 and Over,50,70.5,Count,26691
+2021,09015,County,Windham,Total,18 or Under,24821,567.4,Count,26695
+2021,09015,County,Windham,Total,18 to 64,47586,322.4,Count,26699
+2021,09015,County,Windham,Total,19 to 25,10813,350.8,Count,26703
+2021,09015,County,Windham,Total,26 to 34,13056,349.6,Count,26707
+2021,09015,County,Windham,Total,65 and Over,18614,297.2,Count,26711
+2021,09015,County,Windham,Yes,18 or Under,24378,594.9,Count,26715
+2021,09015,County,Windham,Yes,18 to 64,44952,544.1,Count,26719
+2021,09015,County,Windham,Yes,19 to 25,10275,376.3,Count,26723
+2021,09015,County,Windham,Yes,26 to 34,11740,404.8,Count,26727
+2021,09015,County,Windham,Yes,65 and Over,18564,292.4,Count,26731
+2017,09001,County,Fairfield,No,18 or Under,6,0.4,Percent,45562
+2017,09001,County,Fairfield,Total,18 or Under,100,0,Percent,45587
+2017,09001,County,Fairfield,Yes,18 or Under,94,0.4,Percent,45588
+2017,09001,County,Fairfield,No,18 to 64,10.6,0.4,Percent,45589
+2017,09001,County,Fairfield,Total,18 to 64,100,0,Percent,45590
+2017,09001,County,Fairfield,Yes,18 to 64,89.4,0.4,Percent,45591
+2017,09001,County,Fairfield,No,19 to 25,16.6,1.1,Percent,45592
+2017,09001,County,Fairfield,Total,19 to 25,100,0,Percent,45593
+2017,09001,County,Fairfield,Yes,19 to 25,83.4,1,Percent,45594
+2017,09001,County,Fairfield,No,26 to 34,20.1,0.9,Percent,45595
+2017,09001,County,Fairfield,Total,26 to 34,100,0,Percent,45596
+2017,09001,County,Fairfield,Yes,26 to 34,79.9,1.1,Percent,45597
+2017,09001,County,Fairfield,No,65 and Over,1.5,0.3,Percent,45598
+2017,09001,County,Fairfield,Total,65 and Over,100,0,Percent,45599
+2017,09001,County,Fairfield,Yes,65 and Over,98.5,0.3,Percent,45600
+2017,09003,County,Hartford,Yes,18 to 64,93.7,0.3,Percent,45618
+2017,09003,County,Hartford,No,19 to 25,8.7,0.7,Percent,45660
+2017,09003,County,Hartford,Total,19 to 25,100,0,Percent,45667
+2017,09003,County,Hartford,Yes,19 to 25,91.3,0.8,Percent,45674
+2017,09003,County,Hartford,No,26 to 34,10.2,0.8,Percent,45726
+2017,09003,County,Hartford,Total,26 to 34,100,0,Percent,45729
+2017,09003,County,Hartford,Yes,26 to 34,89.8,0.8,Percent,45734
+2017,09003,County,Hartford,No,65 and Over,0.5,0.1,Percent,45783
+2017,09003,County,Hartford,Total,65 and Over,100,0,Percent,45787
+2017,09003,County,Hartford,Yes,65 and Over,99.5,0.1,Percent,45791
+2017,09003,County,Hartford,No,18 or Under,2.7,0.3,Percent,45972
+2017,09003,County,Hartford,Total,18 or Under,100,0,Percent,45973
+2017,09003,County,Hartford,Yes,18 or Under,97.3,0.3,Percent,45974
+2017,09003,County,Hartford,No,18 to 64,6.3,0.3,Percent,45975
+2017,09003,County,Hartford,Total,18 to 64,100,0,Percent,45976
+2017,09005,County,Litchfield,Yes,18 to 64,94.2,0.5,Percent,46013
+2017,09005,County,Litchfield,No,19 to 25,8,2,Percent,46021
+2017,09005,County,Litchfield,Total,19 to 25,100,0,Percent,46023
+2017,09005,County,Litchfield,Yes,19 to 25,92,2.1,Percent,46030
+2017,09005,County,Litchfield,No,26 to 34,10.9,1.7,Percent,46037
+2017,09005,County,Litchfield,Total,26 to 34,100,0,Percent,46044
+2017,09005,County,Litchfield,Yes,26 to 34,89.1,1.9,Percent,46052
+2017,09005,County,Litchfield,No,65 and Over,0.6,0.3,Percent,46060
+2017,09005,County,Litchfield,Total,65 and Over,100,0,Percent,46068
+2017,09005,County,Litchfield,Yes,65 and Over,99.4,0.2,Percent,46121
+2017,09005,County,Litchfield,No,18 or Under,3.4,0.8,Percent,46166
+2017,09005,County,Litchfield,Total,18 or Under,100,0,Percent,46167
+2017,09005,County,Litchfield,Yes,18 or Under,96.6,0.6,Percent,46168
+2017,09005,County,Litchfield,No,18 to 64,5.8,0.6,Percent,46169
+2017,09005,County,Litchfield,Total,18 to 64,100,0,Percent,46170
+2017,09007,County,Middlesex,No,18 or Under,1.6,0.5,Percent,46443
+2017,09007,County,Middlesex,Total,18 or Under,100,0,Percent,46446
+2017,09007,County,Middlesex,Yes,18 or Under,98.4,0.5,Percent,46450
+2017,09007,County,Middlesex,No,18 to 64,5.1,0.7,Percent,46456
+2017,09007,County,Middlesex,Total,18 to 64,100,0,Percent,46463
+2017,09007,County,Middlesex,Yes,18 to 64,94.9,0.7,Percent,46469
+2017,09007,County,Middlesex,No,19 to 25,6.5,1.4,Percent,46475
+2017,09007,County,Middlesex,Total,19 to 25,100,0,Percent,46481
+2017,09007,County,Middlesex,Yes,19 to 25,93.5,1.8,Percent,46535
+2017,09007,County,Middlesex,No,26 to 34,9.7,2.1,Percent,46591
+2017,09007,County,Middlesex,Total,26 to 34,100,0,Percent,46596
+2017,09007,County,Middlesex,Yes,26 to 34,90.3,2,Percent,46605
+2017,09007,County,Middlesex,No,65 and Over,0.3,0.3,Percent,46611
+2017,09007,County,Middlesex,Total,65 and Over,100,0,Percent,46617
+2017,09007,County,Middlesex,Yes,65 and Over,99.7,0.2,Percent,46623
+2017,09009,County,New Haven,Total,26 to 34,100,0,Percent,46817
+2017,09009,County,New Haven,No,18 or Under,2.9,0.4,Percent,46912
+2017,09009,County,New Haven,Total,18 or Under,100,0,Percent,46913
+2017,09009,County,New Haven,Yes,18 or Under,97.1,0.3,Percent,46914
+2017,09009,County,New Haven,No,18 to 64,7.2,0.4,Percent,46915
+2017,09009,County,New Haven,Total,18 to 64,100,0,Percent,46916
+2017,09009,County,New Haven,Yes,18 to 64,92.8,0.4,Percent,46917
+2017,09009,County,New Haven,No,19 to 25,9.9,1,Percent,46918
+2017,09009,County,New Haven,Total,19 to 25,100,0,Percent,46919
+2017,09009,County,New Haven,Yes,19 to 25,90.1,1.1,Percent,46920
+2017,09009,County,New Haven,No,26 to 34,11.8,1,Percent,46921
+2017,09009,County,New Haven,Yes,26 to 34,88.2,0.9,Percent,47071
+2017,09009,County,New Haven,No,65 and Over,0.5,0.1,Percent,47074
+2017,09009,County,New Haven,Total,65 and Over,100,0,Percent,47077
+2017,09009,County,New Haven,Yes,65 and Over,99.5,0.2,Percent,47080
+2017,09011,County,New London,No,18 or Under,1.9,0.4,Percent,47277
+2017,09011,County,New London,Total,18 or Under,100,0,Percent,47278
+2017,09011,County,New London,Yes,18 or Under,98.1,0.4,Percent,47279
+2017,09011,County,New London,No,18 to 64,5.5,0.5,Percent,47280
+2017,09011,County,New London,Total,18 to 64,100,0,Percent,47281
+2017,09011,County,New London,Yes,18 to 64,94.5,0.5,Percent,47282
+2017,09011,County,New London,No,19 to 25,7.4,1.6,Percent,47283
+2017,09011,County,New London,Total,19 to 25,100,0,Percent,47284
+2017,09011,County,New London,Yes,19 to 25,92.6,1.6,Percent,47285
+2017,09011,County,New London,No,26 to 34,10.5,1.3,Percent,47286
+2017,09011,County,New London,Total,26 to 34,100,0,Percent,47287
+2017,09011,County,New London,Yes,26 to 34,89.5,1.5,Percent,47288
+2017,09011,County,New London,No,65 and Over,0.3,0.2,Percent,47289
+2017,09011,County,New London,Total,65 and Over,100,0,Percent,47290
+2017,09011,County,New London,Yes,65 and Over,99.7,0.2,Percent,47291
+2017,09015,County,Windham,No,18 or Under,2,0.7,Percent,47602
+2017,09015,County,Windham,Total,18 or Under,100,0,Percent,47605
+2017,09013,County,Tolland,Total,26 to 34,100,0,Percent,47608
+2017,09013,County,Tolland,Yes,26 to 34,92.8,1.7,Percent,47663
+2017,09013,County,Tolland,No,18 or Under,2.2,0.6,Percent,47704
+2017,09013,County,Tolland,Total,18 or Under,100,0,Percent,47705
+2017,09013,County,Tolland,Yes,18 or Under,97.8,0.9,Percent,47706
+2017,09013,County,Tolland,No,18 to 64,4.2,0.7,Percent,47707
+2017,09013,County,Tolland,Total,18 to 64,100,0,Percent,47708
+2017,09013,County,Tolland,Yes,18 to 64,95.8,0.7,Percent,47709
+2017,09013,County,Tolland,No,19 to 25,4.7,1.2,Percent,47710
+2017,09013,County,Tolland,Total,19 to 25,100,0,Percent,47711
+2017,09013,County,Tolland,Yes,19 to 25,95.3,1.1,Percent,47712
+2017,09013,County,Tolland,No,26 to 34,7.2,1.8,Percent,47713
+2017,09013,County,Tolland,No,65 and Over,0.3,0.3,Percent,47714
+2017,09013,County,Tolland,Total,65 and Over,100,0,Percent,47718
+2017,09015,County,Windham,Yes,18 or Under,98,0.3,Percent,47768
+2017,09013,County,Tolland,Yes,65 and Over,99.7,0.2,Percent,47769
+2017,09015,County,Windham,No,18 to 64,6.8,0.9,Percent,47773
+2017,09015,County,Windham,Total,18 to 64,100,0,Percent,47778
+2017,09015,County,Windham,Yes,18 to 64,93.2,0.9,Percent,47826
+2017,09015,County,Windham,No,19 to 25,5.9,1.6,Percent,47830
+2017,09015,County,Windham,Total,19 to 25,100,0,Percent,47834
+2017,09015,County,Windham,Yes,19 to 25,94.1,1.4,Percent,47878
+2017,09015,County,Windham,No,26 to 34,12.2,2.1,Percent,47881
+2017,09015,County,Windham,Total,26 to 34,100,0,Percent,47884
+2017,09015,County,Windham,Yes,26 to 34,87.8,2.3,Percent,47887
+2017,09015,County,Windham,No,65 and Over,0.4,0.4,Percent,47890
+2017,09015,County,Windham,Total,65 and Over,100,0,Percent,47892
+2017,09015,County,Windham,Yes,65 and Over,99.6,0.2,Percent,47895
+2018,09001,County,Fairfield,No,18 or Under,5.6,0.4,Percent,48008
+2018,09001,County,Fairfield,Total,18 or Under,100,0,Percent,48010
+2018,09001,County,Fairfield,Yes,18 or Under,94.4,0.4,Percent,48012
+2018,09001,County,Fairfield,No,18 to 64,9.6,0.4,Percent,48014
+2018,09001,County,Fairfield,Total,18 to 64,100,0,Percent,48016
+2018,09001,County,Fairfield,Yes,18 to 64,90.4,0.4,Percent,48018
+2018,09001,County,Fairfield,No,19 to 25,14.4,1.2,Percent,48021
+2018,09001,County,Fairfield,Total,19 to 25,100,0,Percent,48024
+2018,09001,County,Fairfield,Yes,19 to 25,85.6,1.1,Percent,48027
+2018,09001,County,Fairfield,No,26 to 34,17.9,1,Percent,48031
+2018,09001,County,Fairfield,Total,26 to 34,100,0,Percent,48034
+2018,09001,County,Fairfield,Yes,26 to 34,82.1,1,Percent,48039
+2018,09001,County,Fairfield,No,65 and Over,1.4,0.3,Percent,48044
+2018,09001,County,Fairfield,Total,65 and Over,100,0,Percent,48049
+2018,09001,County,Fairfield,Yes,65 and Over,98.6,0.3,Percent,48055
+2018,09003,County,Hartford,No,18 or Under,2.1,0.3,Percent,48695
+2018,09003,County,Hartford,Total,18 or Under,100,0,Percent,48698
+2018,09003,County,Hartford,Yes,18 or Under,97.9,0.3,Percent,48701
+2018,09003,County,Hartford,No,18 to 64,5.3,0.3,Percent,48704
+2018,09003,County,Hartford,Total,18 to 64,100,0,Percent,48707
+2018,09003,County,Hartford,Yes,18 to 64,94.7,0.3,Percent,48708
+2018,09003,County,Hartford,No,19 to 25,7,0.8,Percent,48709
+2018,09003,County,Hartford,Total,19 to 25,100,0,Percent,48710
+2018,09003,County,Hartford,Yes,19 to 25,93,0.6,Percent,48711
+2018,09003,County,Hartford,No,26 to 34,8.9,0.7,Percent,48712
+2018,09003,County,Hartford,Total,26 to 34,100,0,Percent,48713
+2018,09003,County,Hartford,Yes,26 to 34,91.1,0.5,Percent,48714
+2018,09003,County,Hartford,No,65 and Over,0.5,0.1,Percent,48715
+2018,09003,County,Hartford,Total,65 and Over,100,0,Percent,48716
+2018,09003,County,Hartford,Yes,65 and Over,99.5,0.1,Percent,48717
+2018,09005,County,Litchfield,No,18 or Under,3,0.9,Percent,48839
+2018,09005,County,Litchfield,Total,18 or Under,100,0,Percent,48840
+2018,09005,County,Litchfield,Yes,18 or Under,97,0.7,Percent,48841
+2018,09005,County,Litchfield,No,18 to 64,4.7,0.5,Percent,48842
+2018,09005,County,Litchfield,Total,18 to 64,100,0,Percent,48843
+2018,09005,County,Litchfield,Yes,18 to 64,95.3,0.5,Percent,48844
+2018,09005,County,Litchfield,No,19 to 25,6.9,1.6,Percent,48845
+2018,09005,County,Litchfield,Total,19 to 25,100,0,Percent,48846
+2018,09005,County,Litchfield,Yes,19 to 25,93.1,2,Percent,48847
+2018,09005,County,Litchfield,No,26 to 34,10,1.5,Percent,48848
+2018,09005,County,Litchfield,Total,26 to 34,100,0,Percent,48849
+2018,09005,County,Litchfield,Yes,26 to 34,90,1.5,Percent,48850
+2018,09005,County,Litchfield,No,65 and Over,0.7,0.4,Percent,48851
+2018,09005,County,Litchfield,Total,65 and Over,100,0,Percent,48852
+2018,09005,County,Litchfield,Yes,65 and Over,99.3,0.1,Percent,48853
+2018,09007,County,Middlesex,No,18 or Under,1.3,0.4,Percent,49310
+2018,09007,County,Middlesex,Total,18 or Under,100,0,Percent,49311
+2018,09007,County,Middlesex,Yes,18 or Under,98.7,0.5,Percent,49312
+2018,09007,County,Middlesex,No,18 to 64,4.2,0.6,Percent,49313
+2018,09007,County,Middlesex,Total,18 to 64,100,0,Percent,49314
+2018,09007,County,Middlesex,Yes,18 to 64,95.8,0.6,Percent,49315
+2018,09007,County,Middlesex,No,19 to 25,5.4,1.6,Percent,49316
+2018,09007,County,Middlesex,Total,19 to 25,100,0,Percent,49317
+2018,09007,County,Middlesex,Yes,19 to 25,94.6,1.8,Percent,49318
+2018,09007,County,Middlesex,No,26 to 34,7.8,1.7,Percent,49319
+2018,09007,County,Middlesex,Total,26 to 34,100,0,Percent,49320
+2018,09007,County,Middlesex,Yes,26 to 34,92.2,1.7,Percent,49321
+2018,09007,County,Middlesex,No,65 and Over,0.2,0.2,Percent,49322
+2018,09007,County,Middlesex,Total,65 and Over,100,0,Percent,49323
+2018,09007,County,Middlesex,Yes,65 and Over,99.8,0.1,Percent,49324
+2018,09009,County,New Haven,No,18 or Under,2.4,0.3,Percent,49396
+2018,09009,County,New Haven,Total,18 or Under,100,0,Percent,49401
+2018,09009,County,New Haven,Yes,18 or Under,97.6,0.3,Percent,49406
+2018,09009,County,New Haven,No,18 to 64,6.4,0.3,Percent,49446
+2018,09009,County,New Haven,Total,18 to 64,100,0,Percent,49449
+2018,09009,County,New Haven,Yes,18 to 64,93.6,0.3,Percent,49452
+2018,09009,County,New Haven,No,19 to 25,8,0.8,Percent,49455
+2018,09009,County,New Haven,Total,19 to 25,100,0,Percent,49458
+2018,09009,County,New Haven,Yes,19 to 25,92,1.1,Percent,49461
+2018,09009,County,New Haven,No,26 to 34,10.8,0.8,Percent,49464
+2018,09009,County,New Haven,Total,26 to 34,100,0,Percent,49465
+2018,09009,County,New Haven,Yes,26 to 34,89.2,0.7,Percent,49466
+2018,09009,County,New Haven,No,65 and Over,0.4,0.2,Percent,49467
+2018,09009,County,New Haven,Total,65 and Over,100,0,Percent,49468
+2018,09009,County,New Haven,Yes,65 and Over,99.6,0.2,Percent,49469
+2018,09011,County,New London,No,18 or Under,1.9,0.5,Percent,49932
+2018,09011,County,New London,Total,18 or Under,100,0,Percent,49934
+2018,09011,County,New London,Yes,18 or Under,98.1,0.4,Percent,49937
+2018,09011,County,New London,No,18 to 64,4.9,0.5,Percent,49969
+2018,09011,County,New London,Total,18 to 64,100,0,Percent,49971
+2018,09011,County,New London,Yes,18 to 64,95.1,0.5,Percent,49974
+2018,09011,County,New London,No,19 to 25,7.8,1.6,Percent,49976
+2018,09011,County,New London,Total,19 to 25,100,0,Percent,49978
+2018,09011,County,New London,Yes,19 to 25,92.2,1,Percent,49980
+2018,09011,County,New London,No,26 to 34,9.7,1.4,Percent,49982
+2018,09011,County,New London,Total,26 to 34,100,0,Percent,49984
+2018,09011,County,New London,Yes,26 to 34,90.3,1.4,Percent,49986
+2018,09011,County,New London,No,65 and Over,0.5,0.2,Percent,49988
+2018,09011,County,New London,Total,65 and Over,100,0,Percent,49990
+2018,09011,County,New London,Yes,65 and Over,99.5,0.3,Percent,49992
+2018,09013,County,Tolland,No,18 or Under,2.6,0.8,Percent,50208
+2018,09013,County,Tolland,Total,18 or Under,100,0,Percent,50213
+2018,09013,County,Tolland,Yes,18 or Under,97.4,0.7,Percent,50218
+2018,09013,County,Tolland,No,18 to 64,2.9,0.5,Percent,50223
+2018,09013,County,Tolland,Total,18 to 64,100,0,Percent,50260
+2018,09013,County,Tolland,Yes,18 to 64,97.1,0.5,Percent,50264
+2018,09013,County,Tolland,No,19 to 25,4.9,1.3,Percent,50268
+2018,09013,County,Tolland,Total,19 to 25,100,0,Percent,50272
+2018,09013,County,Tolland,Yes,19 to 25,95.1,1,Percent,50276
+2018,09013,County,Tolland,No,26 to 34,6,1.7,Percent,50283
+2018,09013,County,Tolland,Total,26 to 34,100,0,Percent,50287
+2018,09013,County,Tolland,Yes,26 to 34,94,1.4,Percent,50291
+2018,09013,County,Tolland,No,65 and Over,0,0.3,Percent,50295
+2018,09013,County,Tolland,Total,65 and Over,100,0,Percent,50299
+2018,09013,County,Tolland,Yes,65 and Over,100,0,Percent,50303
+2018,09015,County,Windham,No,18 or Under,1.6,0.6,Percent,50459
+2018,09015,County,Windham,Total,18 or Under,100,0,Percent,50460
+2018,09015,County,Windham,Yes,18 or Under,98.4,0.4,Percent,50461
+2018,09015,County,Windham,No,18 to 64,4.7,0.7,Percent,50462
+2018,09015,County,Windham,Total,18 to 64,100,0,Percent,50463
+2018,09015,County,Windham,Yes,18 to 64,95.3,0.7,Percent,50464
+2018,09015,County,Windham,No,19 to 25,5.5,1.5,Percent,50465
+2018,09015,County,Windham,Total,19 to 25,100,0,Percent,50466
+2018,09015,County,Windham,Yes,19 to 25,94.5,1.6,Percent,50467
+2018,09015,County,Windham,No,26 to 34,8.9,1.9,Percent,50468
+2018,09015,County,Windham,Total,26 to 34,100,0,Percent,50469
+2018,09015,County,Windham,Yes,26 to 34,91.1,1.7,Percent,50470
+2018,09015,County,Windham,No,65 and Over,0.6,0.4,Percent,50471
+2018,09015,County,Windham,Total,65 and Over,100,0,Percent,50472
+2018,09015,County,Windham,Yes,65 and Over,99.4,2.1,Percent,50473
+2019,09001,County,Fairfield,No,18 or Under,5.6,0.4,Percent,50672
+2019,09001,County,Fairfield,Total,18 or Under,100,0,Percent,50677
+2019,09001,County,Fairfield,Yes,18 or Under,94.4,0.4,Percent,50701
+2019,09001,County,Fairfield,No,18 to 64,9.6,0.4,Percent,50705
+2019,09001,County,Fairfield,Total,18 to 64,100,0,Percent,50709
+2019,09001,County,Fairfield,Yes,18 to 64,90.4,0.4,Percent,50713
+2019,09001,County,Fairfield,No,19 to 25,13.1,1.1,Percent,50717
+2019,09001,County,Fairfield,Total,19 to 25,100,0,Percent,50721
+2019,09001,County,Fairfield,Yes,19 to 25,86.9,0.9,Percent,50725
+2019,09001,County,Fairfield,No,26 to 34,17,1,Percent,50729
+2019,09001,County,Fairfield,Total,26 to 34,100,0,Percent,50733
+2019,09001,County,Fairfield,Yes,26 to 34,83,1,Percent,50734
+2019,09001,County,Fairfield,No,65 and Over,1.4,0.2,Percent,50735
+2019,09001,County,Fairfield,Total,65 and Over,100,0,Percent,50736
+2019,09001,County,Fairfield,Yes,65 and Over,98.6,0.3,Percent,50737
+2019,09003,County,Hartford,No,18 or Under,1.8,0.3,Percent,50902
+2019,09003,County,Hartford,Total,18 or Under,100,0,Percent,50903
+2019,09003,County,Hartford,Yes,18 or Under,98.2,0.3,Percent,50904
+2019,09003,County,Hartford,No,18 to 64,5,0.3,Percent,50905
+2019,09003,County,Hartford,Total,18 to 64,100,0,Percent,50906
+2019,09003,County,Hartford,Yes,18 to 64,95,0.3,Percent,50907
+2019,09003,County,Hartford,No,19 to 25,6.6,0.8,Percent,50908
+2019,09003,County,Hartford,Total,19 to 25,100,0,Percent,50909
+2019,09003,County,Hartford,Yes,19 to 25,93.4,0.6,Percent,50910
+2019,09003,County,Hartford,No,26 to 34,8.3,0.7,Percent,50911
+2019,09003,County,Hartford,Total,26 to 34,100,0,Percent,50912
+2019,09003,County,Hartford,Yes,26 to 34,91.7,0.7,Percent,50913
+2019,09003,County,Hartford,No,65 and Over,0.4,0.1,Percent,50914
+2019,09003,County,Hartford,Total,65 and Over,100,0,Percent,50915
+2019,09003,County,Hartford,Yes,65 and Over,99.6,0.1,Percent,50916
+2019,09005,County,Litchfield,No,18 or Under,2.5,0.7,Percent,51395
+2019,09005,County,Litchfield,Total,18 or Under,100,0,Percent,51396
+2019,09005,County,Litchfield,Yes,18 or Under,97.5,0.6,Percent,51397
+2019,09005,County,Litchfield,No,18 to 64,4.7,0.5,Percent,51398
+2019,09005,County,Litchfield,Total,18 to 64,100,0,Percent,51399
+2019,09005,County,Litchfield,Yes,18 to 64,95.3,0.5,Percent,51400
+2019,09005,County,Litchfield,No,19 to 25,6.9,1.9,Percent,51401
+2019,09005,County,Litchfield,Total,19 to 25,100,0,Percent,51402
+2019,09005,County,Litchfield,Yes,19 to 25,93.1,2,Percent,51403
+2019,09005,County,Litchfield,No,26 to 34,8.7,1.7,Percent,51404
+2019,09005,County,Litchfield,Total,26 to 34,100,0,Percent,51405
+2019,09005,County,Litchfield,Yes,26 to 34,91.3,1.7,Percent,51406
+2019,09005,County,Litchfield,No,65 and Over,0.2,0.1,Percent,51407
+2019,09005,County,Litchfield,Total,65 and Over,100,0,Percent,51408
+2019,09005,County,Litchfield,Yes,65 and Over,99.8,0.2,Percent,51409
+2019,09007,County,Middlesex,No,18 or Under,1.3,0.4,Percent,51847
+2019,09007,County,Middlesex,Total,18 or Under,100,0,Percent,51848
+2019,09007,County,Middlesex,Yes,18 or Under,98.7,0.5,Percent,51849
+2019,09007,County,Middlesex,No,18 to 64,4.1,0.6,Percent,51850
+2019,09007,County,Middlesex,Total,18 to 64,100,0,Percent,51851
+2019,09007,County,Middlesex,Yes,18 to 64,95.9,0.6,Percent,51852
+2019,09007,County,Middlesex,No,19 to 25,4.8,1.6,Percent,51853
+2019,09007,County,Middlesex,Total,19 to 25,100,0,Percent,51854
+2019,09007,County,Middlesex,Yes,19 to 25,95.2,1.4,Percent,51855
+2019,09007,County,Middlesex,No,26 to 34,7.1,1.9,Percent,51856
+2019,09007,County,Middlesex,Total,26 to 34,100,0,Percent,52038
+2019,09007,County,Middlesex,Yes,26 to 34,92.9,1.8,Percent,52198
+2019,09007,County,Middlesex,No,65 and Over,0.3,0.2,Percent,52203
+2019,09009,County,New Haven,No,18 or Under,2.2,0.3,Percent,52207
+2019,09007,County,Middlesex,Total,65 and Over,100,0,Percent,52208
+2019,09009,County,New Haven,Total,18 or Under,100,0,Percent,52211
+2019,09007,County,Middlesex,Yes,65 and Over,99.7,0.2,Percent,52212
+2019,09009,County,New Haven,Yes,18 or Under,97.8,0.4,Percent,52217
+2019,09009,County,New Haven,No,18 to 64,6.4,0.4,Percent,52222
+2019,09009,County,New Haven,Total,18 to 64,100,0,Percent,52227
+2019,09009,County,New Haven,Yes,18 to 64,93.6,0.4,Percent,52232
+2019,09009,County,New Haven,No,19 to 25,7.3,0.8,Percent,52237
+2019,09009,County,New Haven,Total,19 to 25,100,0,Percent,52242
+2019,09009,County,New Haven,Yes,19 to 25,92.7,0.7,Percent,52247
+2019,09009,County,New Haven,No,26 to 34,9.8,0.8,Percent,52252
+2019,09009,County,New Haven,Total,26 to 34,100,0,Percent,52257
+2019,09009,County,New Haven,Yes,26 to 34,90.2,0.7,Percent,52262
+2019,09009,County,New Haven,No,65 and Over,0.5,0.2,Percent,52267
+2019,09009,County,New Haven,Total,65 and Over,100,0,Percent,52268
+2019,09009,County,New Haven,Yes,65 and Over,99.5,0.1,Percent,52269
+2019,09011,County,New London,No,18 or Under,1.5,0.4,Percent,52415
+2019,09011,County,New London,Total,18 or Under,100,0,Percent,52419
+2019,09011,County,New London,Yes,18 or Under,98.5,0.5,Percent,52424
+2019,09011,County,New London,No,18 to 64,4.8,0.5,Percent,52429
+2019,09011,County,New London,Total,18 to 64,100,0,Percent,52435
+2019,09011,County,New London,Yes,18 to 64,95.2,0.5,Percent,52488
+2019,09011,County,New London,No,19 to 25,7.1,1.4,Percent,52538
+2019,09011,County,New London,Total,19 to 25,100,0,Percent,52543
+2019,09011,County,New London,Yes,19 to 25,92.9,1,Percent,52587
+2019,09011,County,New London,No,26 to 34,9.6,1.4,Percent,52591
+2019,09011,County,New London,Total,26 to 34,100,0,Percent,52595
+2019,09011,County,New London,Yes,26 to 34,90.4,1.3,Percent,52599
+2019,09011,County,New London,No,65 and Over,0.4,0.3,Percent,52603
+2019,09011,County,New London,Total,65 and Over,100,0,Percent,52604
+2019,09011,County,New London,Yes,65 and Over,99.6,0.2,Percent,52605
+2019,09013,County,Tolland,No,18 or Under,2.6,0.8,Percent,53131
+2019,09013,County,Tolland,Total,18 or Under,100,0,Percent,53132
+2019,09013,County,Tolland,Yes,18 or Under,97.4,0.7,Percent,53133
+2019,09013,County,Tolland,No,18 to 64,2.6,0.5,Percent,53134
+2019,09013,County,Tolland,Total,18 to 64,100,0,Percent,53135
+2019,09013,County,Tolland,Yes,18 to 64,97.4,0.4,Percent,53136
+2019,09013,County,Tolland,No,19 to 25,3.3,1.2,Percent,53137
+2019,09013,County,Tolland,Total,19 to 25,100,0,Percent,53138
+2019,09013,County,Tolland,Yes,19 to 25,96.7,1.4,Percent,53139
+2019,09013,County,Tolland,No,26 to 34,5.3,1.6,Percent,53140
+2019,09013,County,Tolland,Total,26 to 34,100,0,Percent,53141
+2019,09013,County,Tolland,Yes,26 to 34,94.7,1,Percent,53142
+2019,09013,County,Tolland,No,65 and Over,0,0.3,Percent,53143
+2019,09013,County,Tolland,Total,65 and Over,100,0,Percent,53144
+2019,09013,County,Tolland,Yes,65 and Over,100,0,Percent,53145
+2019,09015,County,Windham,No,18 or Under,1.8,0.6,Percent,53191
+2019,09015,County,Windham,Total,18 or Under,100,0,Percent,53192
+2019,09015,County,Windham,Yes,18 or Under,98.2,0.6,Percent,53193
+2019,09015,County,Windham,No,18 to 64,4.6,0.7,Percent,53194
+2019,09015,County,Windham,Total,18 to 64,100,0,Percent,53195
+2019,09015,County,Windham,Yes,18 to 64,95.4,0.7,Percent,53196
+2019,09015,County,Windham,No,19 to 25,6.4,1.6,Percent,53197
+2019,09015,County,Windham,Total,19 to 25,100,0,Percent,53198
+2019,09015,County,Windham,Yes,19 to 25,93.6,1.5,Percent,53199
+2019,09015,County,Windham,No,26 to 34,10,2.2,Percent,53200
+2019,09015,County,Windham,Total,26 to 34,100,0,Percent,53219
+2020,09001,County,Fairfield,Yes,18 to 64,90.7,0.4,Percent,53266
+2019,09015,County,Windham,Yes,26 to 34,90,2.5,Percent,53268
+2020,09001,County,Fairfield,No,19 to 25,10.7,1,Percent,53271
+2019,09015,County,Windham,No,65 and Over,0.5,0.4,Percent,53274
+2020,09001,County,Fairfield,Total,19 to 25,100,0,Percent,53277
+2019,09015,County,Windham,Total,65 and Over,100,0,Percent,53280
+2019,09015,County,Windham,Yes,65 and Over,99.5,0.3,Percent,53281
+2020,09001,County,Fairfield,Yes,19 to 25,89.3,0.9,Percent,53329
+2020,09001,County,Fairfield,No,26 to 34,15.1,1,Percent,53333
+2020,09001,County,Fairfield,No,18 or Under,4.7,0.4,Percent,53367
+2020,09001,County,Fairfield,Total,18 or Under,100,0,Percent,53368
+2020,09001,County,Fairfield,Yes,18 or Under,95.3,0.4,Percent,53369
+2020,09001,County,Fairfield,No,18 to 64,9.3,0.4,Percent,53370
+2020,09001,County,Fairfield,Total,18 to 64,100,0,Percent,53371
+2020,09001,County,Fairfield,Total,26 to 34,100,0,Percent,53376
+2020,09001,County,Fairfield,Yes,26 to 34,84.9,1.1,Percent,53380
+2020,09001,County,Fairfield,No,65 and Over,1.2,0.3,Percent,53384
+2020,09001,County,Fairfield,Total,65 and Over,100,0,Percent,53388
+2020,09001,County,Fairfield,Yes,65 and Over,98.8,0.3,Percent,53393
+2020,09003,County,Hartford,No,18 or Under,1.9,0.3,Percent,53656
+2020,09003,County,Hartford,Total,18 or Under,100,0,Percent,53664
+2020,09003,County,Hartford,Yes,18 or Under,98.1,0.2,Percent,53672
+2020,09003,County,Hartford,No,18 to 64,4.9,0.3,Percent,53679
+2020,09003,County,Hartford,Total,18 to 64,100,0,Percent,53684
+2020,09003,County,Hartford,Yes,18 to 64,95.1,0.3,Percent,53692
+2020,09003,County,Hartford,No,19 to 25,6.1,0.8,Percent,53700
+2020,09003,County,Hartford,Total,19 to 25,100,0,Percent,53708
+2020,09003,County,Hartford,Yes,19 to 25,93.9,0.7,Percent,53716
+2020,09003,County,Hartford,No,26 to 34,7.9,0.8,Percent,53724
+2020,09003,County,Hartford,Total,26 to 34,100,0,Percent,53731
+2020,09003,County,Hartford,Yes,26 to 34,92.1,0.7,Percent,53739
+2020,09003,County,Hartford,No,65 and Over,0.7,0.2,Percent,53747
+2020,09003,County,Hartford,Total,65 and Over,100,0,Percent,53755
+2020,09003,County,Hartford,Yes,65 and Over,99.3,0.2,Percent,53763
+2020,09005,County,Litchfield,No,18 or Under,2.1,0.6,Percent,54068
+2020,09005,County,Litchfield,Total,18 or Under,100,0,Percent,54069
+2020,09005,County,Litchfield,Yes,18 or Under,97.9,0.6,Percent,54070
+2020,09005,County,Litchfield,No,18 to 64,4.1,0.5,Percent,54071
+2020,09005,County,Litchfield,Total,18 to 64,100,0,Percent,54072
+2020,09005,County,Litchfield,Yes,18 to 64,95.9,0.5,Percent,54073
+2020,09005,County,Litchfield,No,19 to 25,8.7,2.1,Percent,54074
+2020,09005,County,Litchfield,Total,19 to 25,100,0,Percent,54075
+2020,09005,County,Litchfield,Yes,19 to 25,91.3,2.4,Percent,54076
+2020,09005,County,Litchfield,No,26 to 34,7.7,1.5,Percent,54077
+2020,09005,County,Litchfield,Total,26 to 34,100,0,Percent,54078
+2020,09005,County,Litchfield,Yes,26 to 34,92.3,1.5,Percent,54079
+2020,09005,County,Litchfield,No,65 and Over,0.2,0.1,Percent,54080
+2020,09005,County,Litchfield,Total,65 and Over,100,0,Percent,54081
+2020,09005,County,Litchfield,Yes,65 and Over,99.8,0.1,Percent,54082
+2020,09007,County,Middlesex,No,18 or Under,1.1,0.5,Percent,54510
+2020,09007,County,Middlesex,Total,18 or Under,100,0,Percent,54517
+2020,09007,County,Middlesex,Yes,18 or Under,98.9,0.6,Percent,54524
+2020,09007,County,Middlesex,No,18 to 64,4.3,0.7,Percent,54531
+2020,09007,County,Middlesex,Total,18 to 64,100,0,Percent,54538
+2020,09007,County,Middlesex,Yes,18 to 64,95.7,0.7,Percent,54545
+2020,09007,County,Middlesex,No,19 to 25,4.3,1.5,Percent,54546
+2020,09007,County,Middlesex,Total,19 to 25,100,0,Percent,54547
+2020,09007,County,Middlesex,Yes,19 to 25,95.7,1.8,Percent,54548
+2020,09007,County,Middlesex,No,26 to 34,7.7,2,Percent,54549
+2020,09007,County,Middlesex,Total,26 to 34,100,0,Percent,54550
+2020,09007,County,Middlesex,Yes,26 to 34,92.3,2.1,Percent,54551
+2020,09007,County,Middlesex,No,65 and Over,0.3,0.2,Percent,54552
+2020,09007,County,Middlesex,Total,65 and Over,100,0,Percent,54553
+2020,09007,County,Middlesex,Yes,65 and Over,99.7,0.2,Percent,54554
+2020,09009,County,New Haven,No,18 or Under,2.6,0.4,Percent,54824
+2020,09009,County,New Haven,Total,18 or Under,100,0,Percent,54861
+2020,09009,County,New Haven,Yes,18 or Under,97.4,0.4,Percent,54868
+2020,09009,County,New Haven,No,18 to 64,6.5,0.4,Percent,54875
+2020,09009,County,New Haven,Total,18 to 64,100,0,Percent,54928
+2020,09009,County,New Haven,Yes,18 to 64,93.5,0.4,Percent,54933
+2020,09009,County,New Haven,No,19 to 25,5.8,0.7,Percent,54983
+2020,09009,County,New Haven,Total,19 to 25,100,0,Percent,54987
+2020,09009,County,New Haven,Yes,19 to 25,94.2,0.6,Percent,54991
+2020,09009,County,New Haven,No,26 to 34,9.7,0.8,Percent,54992
+2020,09009,County,New Haven,Total,26 to 34,100,0,Percent,54993
+2020,09009,County,New Haven,Yes,26 to 34,90.3,0.8,Percent,54994
+2020,09009,County,New Haven,No,65 and Over,0.5,0.2,Percent,54995
+2020,09009,County,New Haven,Total,65 and Over,100,0,Percent,54996
+2020,09009,County,New Haven,Yes,65 and Over,99.5,0.2,Percent,54997
+2020,09011,County,New London,No,18 or Under,1.7,0.4,Percent,55493
+2020,09011,County,New London,Total,18 or Under,100,0,Percent,55497
+2020,09011,County,New London,Yes,18 or Under,98.3,0.4,Percent,55518
+2020,09011,County,New London,No,18 to 64,5,0.6,Percent,55521
+2020,09011,County,New London,Total,18 to 64,100,0,Percent,55524
+2020,09011,County,New London,Yes,18 to 64,95,0.6,Percent,55527
+2020,09011,County,New London,No,19 to 25,6.7,1.3,Percent,55530
+2020,09011,County,New London,Total,19 to 25,100,0,Percent,55533
+2020,09011,County,New London,Yes,19 to 25,93.3,1.2,Percent,55536
+2020,09011,County,New London,No,26 to 34,10.1,1.5,Percent,55539
+2020,09011,County,New London,Total,26 to 34,100,0,Percent,55542
+2020,09011,County,New London,Yes,26 to 34,89.9,1.5,Percent,55545
+2020,09011,County,New London,No,65 and Over,0.5,0.3,Percent,55548
+2020,09011,County,New London,Total,65 and Over,100,0,Percent,55551
+2020,09011,County,New London,Yes,65 and Over,99.5,0.2,Percent,55554
+2020,09013,County,Tolland,No,18 or Under,2.8,1,Percent,55601
+2020,09013,County,Tolland,Total,18 or Under,100,0,Percent,55602
+2020,09013,County,Tolland,Yes,18 or Under,97.2,0.6,Percent,55603
+2020,09013,County,Tolland,No,18 to 64,2.9,0.5,Percent,55604
+2020,09013,County,Tolland,Total,18 to 64,100,0,Percent,55606
+2020,09013,County,Tolland,Yes,18 to 64,97.1,0.5,Percent,55607
+2020,09013,County,Tolland,No,19 to 25,2.2,0.8,Percent,55608
+2020,09013,County,Tolland,Total,19 to 25,100,0,Percent,55609
+2020,09013,County,Tolland,Yes,19 to 25,97.8,0.9,Percent,55610
+2020,09013,County,Tolland,No,26 to 34,6.8,1.8,Percent,55617
+2020,09013,County,Tolland,Total,26 to 34,100,0,Percent,55624
+2020,09013,County,Tolland,Yes,26 to 34,93.2,1.3,Percent,55631
+2020,09013,County,Tolland,No,65 and Over,0,0.3,Percent,55638
+2020,09015,County,Windham,No,18 or Under,2,0.8,Percent,55651
+2020,09015,County,Windham,Total,18 or Under,100,0,Percent,55652
+2020,09015,County,Windham,Yes,18 or Under,98,0.8,Percent,55653
+2020,09015,County,Windham,No,18 to 64,4.9,0.9,Percent,55654
+2020,09015,County,Windham,Total,18 to 64,100,0,Percent,55655
+2020,09015,County,Windham,Yes,18 to 64,95.1,0.9,Percent,55656
+2020,09015,County,Windham,No,19 to 25,5.2,1.5,Percent,55657
+2020,09015,County,Windham,Total,19 to 25,100,0,Percent,55658
+2020,09015,County,Windham,Yes,19 to 25,94.8,1.9,Percent,55659
+2020,09015,County,Windham,No,26 to 34,8.1,1.8,Percent,55660
+2020,09015,County,Windham,Total,26 to 34,100,0,Percent,55661
+2020,09015,County,Windham,Yes,26 to 34,91.9,2.1,Percent,55662
+2020,09015,County,Windham,No,65 and Over,0.4,0.3,Percent,55663
+2020,09015,County,Windham,Total,65 and Over,100,0,Percent,55664
+2020,09015,County,Windham,Yes,65 and Over,99.6,0.2,Percent,55665
+2020,09013,County,Tolland,Total,65 and Over,100,0,Percent,55915
+2020,09013,County,Tolland,Yes,65 and Over,100,0,Percent,55916
+2021,09001,County,Fairfield,No,18 or Under,4.4,0.4,Percent,56264
+2021,09001,County,Fairfield,Total,18 or Under,100,0,Percent,56269
+2021,09001,County,Fairfield,Yes,18 or Under,95.6,0.4,Percent,56273
+2021,09001,County,Fairfield,No,18 to 64,9.7,0.4,Percent,56277
+2021,09001,County,Fairfield,Total,18 to 64,100,0,Percent,56281
+2021,09001,County,Fairfield,Yes,18 to 64,90.3,0.4,Percent,56285
+2021,09001,County,Fairfield,No,19 to 25,10.1,1,Percent,56289
+2021,09001,County,Fairfield,Total,19 to 25,100,0,Percent,56293
+2021,09001,County,Fairfield,Yes,19 to 25,89.9,1.1,Percent,56296
+2021,09001,County,Fairfield,No,26 to 34,15.2,1,Percent,56300
+2021,09001,County,Fairfield,Total,26 to 34,100,0,Percent,56304
+2021,09001,County,Fairfield,Yes,26 to 34,84.8,1,Percent,56308
+2021,09001,County,Fairfield,No,65 and Over,1.4,0.3,Percent,56312
+2021,09001,County,Fairfield,Total,65 and Over,100,0,Percent,56316
+2021,09001,County,Fairfield,Yes,65 and Over,98.6,0.3,Percent,56320
+2021,09003,County,Hartford,No,18 or Under,2,0.3,Percent,56673
+2021,09003,County,Hartford,Total,18 or Under,100,0,Percent,56678
+2021,09003,County,Hartford,Yes,18 or Under,98,0.3,Percent,56683
+2021,09003,County,Hartford,No,18 to 64,5.1,0.3,Percent,56709
+2021,09003,County,Hartford,Total,18 to 64,100,0,Percent,56713
+2021,09003,County,Hartford,Yes,18 to 64,94.9,0.3,Percent,56717
+2021,09003,County,Hartford,No,19 to 25,6.5,0.8,Percent,56721
+2021,09003,County,Hartford,Total,19 to 25,100,0,Percent,56725
+2021,09003,County,Hartford,Yes,19 to 25,93.5,0.6,Percent,56729
+2021,09003,County,Hartford,No,26 to 34,8,0.7,Percent,56733
+2021,09003,County,Hartford,Total,26 to 34,100,0,Percent,56737
+2021,09003,County,Hartford,Yes,26 to 34,92,0.6,Percent,56741
+2021,09003,County,Hartford,No,65 and Over,0.7,0.2,Percent,56742
+2021,09003,County,Hartford,Total,65 and Over,100,0,Percent,56743
+2021,09003,County,Hartford,Yes,65 and Over,99.3,0.2,Percent,56744
+2021,09005,County,Litchfield,No,18 or Under,2.3,0.7,Percent,57018
+2021,09005,County,Litchfield,Total,18 or Under,100,0,Percent,57019
+2021,09005,County,Litchfield,Yes,18 or Under,97.7,0.7,Percent,57020
+2021,09005,County,Litchfield,No,18 to 64,4.6,0.6,Percent,57021
+2021,09005,County,Litchfield,Total,18 to 64,100,0,Percent,57022
+2021,09005,County,Litchfield,Yes,18 to 64,95.4,0.6,Percent,57023
+2021,09005,County,Litchfield,No,19 to 25,5.9,1.8,Percent,57024
+2021,09005,County,Litchfield,Total,19 to 25,100,0,Percent,57025
+2021,09005,County,Litchfield,Yes,19 to 25,94.1,2.3,Percent,57026
+2021,09005,County,Litchfield,No,26 to 34,7.9,1.7,Percent,57027
+2021,09005,County,Litchfield,Total,26 to 34,100,0,Percent,57028
+2021,09005,County,Litchfield,Yes,26 to 34,92.1,1.4,Percent,57029
+2021,09005,County,Litchfield,No,65 and Over,0.1,0.1,Percent,57030
+2021,09005,County,Litchfield,Total,65 and Over,100,0,Percent,57031
+2021,09005,County,Litchfield,Yes,65 and Over,99.9,0.2,Percent,57032
+2021,09007,County,Middlesex,No,18 or Under,1.1,0.5,Percent,57323
+2021,09007,County,Middlesex,Total,18 or Under,100,0,Percent,57324
+2021,09007,County,Middlesex,Yes,18 or Under,98.9,0.6,Percent,57325
+2021,09007,County,Middlesex,No,18 to 64,4.2,0.7,Percent,57326
+2021,09007,County,Middlesex,Total,18 to 64,100,0,Percent,57327
+2021,09007,County,Middlesex,Yes,18 to 64,95.8,0.7,Percent,57328
+2021,09007,County,Middlesex,No,19 to 25,5,1.6,Percent,57329
+2021,09007,County,Middlesex,Total,19 to 25,100,0,Percent,57330
+2021,09007,County,Middlesex,Yes,19 to 25,95,1.1,Percent,57331
+2021,09007,County,Middlesex,No,26 to 34,7.5,2.3,Percent,57332
+2021,09007,County,Middlesex,Total,26 to 34,100,0,Percent,57333
+2021,09007,County,Middlesex,Yes,26 to 34,92.5,2.2,Percent,57334
+2021,09007,County,Middlesex,No,65 and Over,0.1,0.1,Percent,57335
+2021,09007,County,Middlesex,Total,65 and Over,100,0,Percent,57336
+2021,09007,County,Middlesex,Yes,65 and Over,99.9,0.1,Percent,57337
+2021,09009,County,New Haven,No,18 or Under,2.5,0.4,Percent,57471
+2021,09009,County,New Haven,Total,18 or Under,100,0,Percent,57472
+2021,09009,County,New Haven,Yes,18 or Under,97.5,0.4,Percent,57473
+2021,09009,County,New Haven,No,18 to 64,6.8,0.4,Percent,57474
+2021,09009,County,New Haven,Total,18 to 64,100,0,Percent,57475
+2021,09009,County,New Haven,Yes,18 to 64,93.2,0.4,Percent,57476
+2021,09009,County,New Haven,No,19 to 25,5.9,0.7,Percent,57477
+2021,09009,County,New Haven,Total,19 to 25,100,0,Percent,57478
+2021,09009,County,New Haven,Yes,19 to 25,94.1,0.9,Percent,57479
+2021,09009,County,New Haven,No,26 to 34,10.1,1,Percent,57480
+2021,09009,County,New Haven,Total,26 to 34,100,0,Percent,57481
+2021,09009,County,New Haven,Yes,26 to 34,89.9,0.8,Percent,57482
+2021,09009,County,New Haven,No,65 and Over,0.6,0.2,Percent,57483
+2021,09009,County,New Haven,Total,65 and Over,100,0,Percent,57484
+2021,09009,County,New Haven,Yes,65 and Over,99.4,0.2,Percent,57485
+2021,09011,County,New London,No,18 or Under,1.9,0.4,Percent,57775
+2021,09011,County,New London,Total,18 or Under,100,0,Percent,57776
+2021,09011,County,New London,Yes,18 or Under,98.1,0.5,Percent,57777
+2021,09011,County,New London,No,18 to 64,5,0.6,Percent,57778
+2021,09011,County,New London,Total,18 to 64,100,0,Percent,57779
+2021,09011,County,New London,Yes,18 to 64,95,0.5,Percent,57780
+2021,09011,County,New London,No,19 to 25,7.9,1.4,Percent,57781
+2021,09011,County,New London,Total,19 to 25,100,0,Percent,57782
+2021,09011,County,New London,Yes,19 to 25,92.1,1.6,Percent,57783
+2021,09011,County,New London,No,26 to 34,8.8,1.5,Percent,57784
+2021,09011,County,New London,Total,26 to 34,100,0,Percent,58026
+2021,09011,County,New London,Yes,26 to 34,91.2,1.3,Percent,58081
+2021,09011,County,New London,No,65 and Over,0.6,0.3,Percent,58136
+2021,09011,County,New London,Total,65 and Over,100,0,Percent,58142
+2021,09011,County,New London,Yes,65 and Over,99.4,0.3,Percent,58143
+2021,09013,County,Tolland,No,18 or Under,3.6,1,Percent,58267
+2021,09013,County,Tolland,Total,18 or Under,100,0,Percent,58272
+2021,09013,County,Tolland,Yes,18 or Under,96.4,0.8,Percent,58277
+2021,09013,County,Tolland,No,18 to 64,3.4,0.6,Percent,58302
+2021,09013,County,Tolland,Total,18 to 64,100,0,Percent,58306
+2021,09013,County,Tolland,Yes,18 to 64,96.6,0.5,Percent,58310
+2021,09013,County,Tolland,No,19 to 25,2.7,0.8,Percent,58314
+2021,09013,County,Tolland,Total,19 to 25,100,0,Percent,58318
+2021,09013,County,Tolland,Yes,19 to 25,97.3,0.8,Percent,58322
+2021,09013,County,Tolland,No,26 to 34,6.3,1.7,Percent,58326
+2021,09013,County,Tolland,Total,26 to 34,100,0,Percent,58330
+2021,09013,County,Tolland,Yes,26 to 34,93.7,1.1,Percent,58334
+2021,09013,County,Tolland,No,65 and Over,0,0.2,Percent,58337
+2021,09013,County,Tolland,Total,65 and Over,100,0,Percent,58339
+2021,09013,County,Tolland,Yes,65 and Over,100,0.1,Percent,58344
+2021,09015,County,Windham,No,18 or Under,1.8,0.6,Percent,58704
+2021,09015,County,Windham,Total,18 or Under,100,0,Percent,58707
+2021,09015,County,Windham,Yes,18 or Under,98.2,0.8,Percent,58710
+2021,09015,County,Windham,No,18 to 64,5.5,0.9,Percent,58713
+2021,09015,County,Windham,Total,18 to 64,100,0,Percent,58716
+2021,09015,County,Windham,Yes,18 to 64,94.5,0.9,Percent,58719
+2021,09015,County,Windham,No,19 to 25,5,1.4,Percent,58722
+2021,09015,County,Windham,Total,19 to 25,100,0,Percent,58725
+2021,09015,County,Windham,Yes,19 to 25,95,1.6,Percent,58739
+2021,09015,County,Windham,No,26 to 34,10.1,2,Percent,58742
+2021,09015,County,Windham,Total,26 to 34,100,0,Percent,58744
+2021,09015,County,Windham,Yes,26 to 34,89.9,2,Percent,58746
+2021,09015,County,Windham,No,65 and Over,0.3,0.4,Percent,58748
+2021,09015,County,Windham,Total,65 and Over,100,0,Percent,58750
+2021,09015,County,Windham,Yes,65 and Over,99.7,2.2,Percent,58752
